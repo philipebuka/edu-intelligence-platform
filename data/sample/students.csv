@@ -1,0 +1,1001 @@
+student_id,student_number,first_name,last_name,gender,date_of_birth,department_id,programme,level,admission_year
+1,STU20230001,Chinedu,Adebayo,Male,2001-03-24,1,Computer Science,100,2021
+2,STU20230002,Chinedu,Okafor,Male,2001-04-17,4,Economics,100,2022
+3,STU20230003,Ngozi,Uche,Female,1998-03-23,4,Economics,400,2023
+4,STU20230004,Emeka,Obi,Female,1999-02-13,3,Accounting,100,2023
+5,STU20230005,Esther,Adebayo,Male,2005-09-04,3,Accounting,400,2021
+6,STU20230006,Joy,Adeyemi,Female,2001-12-03,3,Accounting,100,2022
+7,STU20230007,Adaeze,Obi,Male,2004-05-15,3,Accounting,300,2022
+8,STU20230008,Amaka,Obi,Female,1999-10-21,3,Accounting,200,2022
+9,STU20230009,Grace,Ibrahim,Female,2006-04-22,2,Mathematics,300,2021
+10,STU20230010,Joy,Okafor,Female,2004-05-03,2,Mathematics,200,2023
+11,STU20230011,Samuel,Uche,Female,2005-03-09,2,Mathematics,200,2022
+12,STU20230012,Chioma,Adeyemi,Female,2004-06-08,3,Accounting,200,2024
+13,STU20230013,Michael,Okafor,Male,2000-11-06,1,Computer Science,400,2021
+14,STU20230014,David,Adeyemi,Female,2006-05-18,4,Economics,100,2021
+15,STU20230015,Michael,Okeke,Male,2002-07-06,3,Accounting,400,2021
+16,STU20230016,Daniel,Nwosu,Male,2002-11-17,3,Accounting,200,2022
+17,STU20230017,Michael,Nwosu,Male,2003-08-01,3,Accounting,100,2023
+18,STU20230018,Ngozi,Okafor,Male,1999-02-24,3,Accounting,400,2021
+19,STU20230019,Emeka,Uche,Male,2002-09-28,2,Mathematics,400,2022
+20,STU20230020,Chioma,Adebayo,Female,2003-08-17,2,Mathematics,400,2021
+21,STU20230021,Ngozi,Eze,Female,1998-10-18,2,Mathematics,200,2022
+22,STU20230022,Adaeze,Okafor,Male,1999-01-28,1,Computer Science,300,2021
+23,STU20230023,Ifeanyi,Uche,Male,2006-03-24,2,Mathematics,400,2022
+24,STU20230024,Michael,Ibrahim,Male,1999-02-22,4,Economics,400,2023
+25,STU20230025,David,Uche,Male,1999-01-13,4,Economics,300,2021
+26,STU20230026,Ngozi,Obi,Female,2000-07-06,2,Mathematics,300,2024
+27,STU20230027,Joy,Eze,Female,2006-02-02,2,Mathematics,100,2021
+28,STU20230028,Emeka,Ibrahim,Female,2005-04-28,2,Mathematics,400,2021
+29,STU20230029,David,Okafor,Female,2002-08-10,2,Mathematics,400,2024
+30,STU20230030,Ngozi,Adebayo,Male,1998-10-24,2,Mathematics,100,2023
+31,STU20230031,Chinedu,Adeyemi,Female,2006-09-06,1,Computer Science,100,2021
+32,STU20230032,Adaeze,Adeyemi,Male,2001-07-04,2,Mathematics,200,2021
+33,STU20230033,David,Adeyemi,Female,2002-04-22,1,Computer Science,300,2022
+34,STU20230034,David,Nwosu,Female,2005-06-25,3,Accounting,100,2021
+35,STU20230035,Esther,Adeyemi,Male,1999-09-07,4,Economics,300,2022
+36,STU20230036,Victor,Eze,Male,2003-05-06,3,Accounting,400,2023
+37,STU20230037,Samuel,Olawale,Female,1999-03-09,1,Computer Science,100,2021
+38,STU20230038,Ifeanyi,Adebayo,Male,2003-04-22,2,Mathematics,300,2024
+39,STU20230039,Victor,Okafor,Male,2004-05-02,3,Accounting,100,2023
+40,STU20230040,Samuel,Adebayo,Male,2005-09-23,2,Mathematics,400,2021
+41,STU20230041,Adaeze,Nwosu,Male,2003-10-18,1,Computer Science,200,2024
+42,STU20230042,Chinedu,Adebayo,Female,1998-06-07,2,Mathematics,200,2021
+43,STU20230043,Michael,Olawale,Female,2000-04-28,3,Accounting,200,2022
+44,STU20230044,Chinedu,Nwosu,Female,2004-11-28,4,Economics,200,2023
+45,STU20230045,Michael,Eze,Female,1998-08-08,2,Mathematics,200,2024
+46,STU20230046,Ifeanyi,Obi,Male,1998-11-07,3,Accounting,400,2023
+47,STU20230047,Joy,Eze,Female,2003-11-17,3,Accounting,400,2023
+48,STU20230048,Adaeze,Adebayo,Male,2002-01-04,1,Computer Science,400,2023
+49,STU20230049,David,Adeyemi,Male,2004-10-07,3,Accounting,300,2021
+50,STU20230050,Chinedu,Olawale,Male,2003-07-03,4,Economics,300,2023
+51,STU20230051,Chioma,Adebayo,Female,2004-06-13,1,Computer Science,300,2022
+52,STU20230052,David,Ibrahim,Male,2002-07-18,2,Mathematics,100,2023
+53,STU20230053,Ngozi,Ibrahim,Female,2005-08-15,3,Accounting,200,2024
+54,STU20230054,Samuel,Eze,Female,2006-11-21,2,Mathematics,300,2021
+55,STU20230055,Samuel,Adebayo,Male,2001-03-01,2,Mathematics,100,2022
+56,STU20230056,Esther,Eze,Female,2004-11-19,4,Economics,200,2024
+57,STU20230057,David,Obi,Male,1998-02-25,4,Economics,400,2022
+58,STU20230058,Michael,Olawale,Female,1998-09-08,2,Mathematics,100,2024
+59,STU20230059,Michael,Uche,Female,2005-10-27,2,Mathematics,400,2024
+60,STU20230060,Chioma,Uche,Female,2002-04-27,2,Mathematics,300,2024
+61,STU20230061,Ifeanyi,Uche,Male,2002-04-09,2,Mathematics,300,2023
+62,STU20230062,Emeka,Nwosu,Male,2004-12-05,1,Computer Science,200,2021
+63,STU20230063,David,Okeke,Female,2004-01-07,4,Economics,400,2024
+64,STU20230064,Joy,Adeyemi,Female,2005-01-12,1,Computer Science,300,2024
+65,STU20230065,Daniel,Olawale,Male,2005-04-09,4,Economics,400,2024
+66,STU20230066,David,Okeke,Female,2000-08-05,1,Computer Science,100,2024
+67,STU20230067,Adaeze,Ibrahim,Male,2005-03-02,1,Computer Science,300,2024
+68,STU20230068,Ngozi,Uche,Female,2003-07-09,3,Accounting,400,2023
+69,STU20230069,Grace,Okafor,Male,2003-04-21,1,Computer Science,100,2021
+70,STU20230070,Ngozi,Obi,Male,2000-04-05,1,Computer Science,400,2021
+71,STU20230071,Grace,Adebayo,Female,2000-10-20,2,Mathematics,100,2022
+72,STU20230072,Adaeze,Adeyemi,Male,2002-10-22,3,Accounting,400,2024
+73,STU20230073,Adaeze,Adeyemi,Male,1999-12-25,2,Mathematics,300,2021
+74,STU20230074,Amaka,Olawale,Female,2003-02-17,1,Computer Science,300,2021
+75,STU20230075,Joy,Uche,Male,2004-06-21,4,Economics,400,2022
+76,STU20230076,Emeka,Olawale,Female,2006-08-15,4,Economics,400,2023
+77,STU20230077,Joy,Obi,Male,2002-08-08,3,Accounting,400,2024
+78,STU20230078,Chinedu,Uche,Female,2000-08-07,3,Accounting,300,2023
+79,STU20230079,Ifeanyi,Adeyemi,Female,2006-01-17,3,Accounting,200,2021
+80,STU20230080,Chioma,Ibrahim,Female,2006-04-23,2,Mathematics,400,2024
+81,STU20230081,Michael,Okafor,Male,2002-04-13,4,Economics,200,2023
+82,STU20230082,Grace,Olawale,Female,2004-12-18,3,Accounting,300,2023
+83,STU20230083,Ifeanyi,Adebayo,Female,2001-02-24,4,Economics,200,2023
+84,STU20230084,Chioma,Olawale,Male,2001-04-24,1,Computer Science,400,2023
+85,STU20230085,Adaeze,Obi,Female,2001-06-06,3,Accounting,300,2021
+86,STU20230086,Ifeanyi,Okafor,Male,2006-05-23,2,Mathematics,200,2024
+87,STU20230087,Joy,Okafor,Female,2005-08-15,1,Computer Science,300,2022
+88,STU20230088,Ifeanyi,Uche,Male,1999-07-16,1,Computer Science,100,2021
+89,STU20230089,Emeka,Adeyemi,Female,1999-04-04,2,Mathematics,400,2022
+90,STU20230090,Grace,Uche,Female,2004-05-19,4,Economics,100,2021
+91,STU20230091,Samuel,Obi,Female,1999-03-08,2,Mathematics,200,2021
+92,STU20230092,Chinedu,Ibrahim,Female,2005-05-02,2,Mathematics,200,2023
+93,STU20230093,Chioma,Uche,Male,2001-05-26,3,Accounting,200,2024
+94,STU20230094,Daniel,Obi,Male,2002-03-03,1,Computer Science,100,2022
+95,STU20230095,Esther,Adeyemi,Female,2005-02-15,3,Accounting,300,2024
+96,STU20230096,Daniel,Olawale,Female,2005-02-20,3,Accounting,100,2024
+97,STU20230097,Esther,Adebayo,Male,1999-04-22,3,Accounting,100,2023
+98,STU20230098,Michael,Nwosu,Female,2006-11-15,1,Computer Science,300,2022
+99,STU20230099,Samuel,Uche,Male,2005-06-14,4,Economics,300,2023
+100,STU20230100,Joy,Nwosu,Female,2004-12-16,1,Computer Science,300,2024
+101,STU20230101,Grace,Eze,Female,2002-06-04,1,Computer Science,400,2021
+102,STU20230102,David,Okafor,Male,2006-06-20,4,Economics,400,2024
+103,STU20230103,Ngozi,Adebayo,Male,2002-08-23,1,Computer Science,400,2021
+104,STU20230104,Samuel,Adeyemi,Male,2000-05-18,1,Computer Science,100,2024
+105,STU20230105,Ngozi,Eze,Female,1999-11-27,1,Computer Science,200,2024
+106,STU20230106,Daniel,Adebayo,Female,2005-08-08,3,Accounting,400,2022
+107,STU20230107,Ngozi,Adeyemi,Male,1999-05-25,4,Economics,400,2023
+108,STU20230108,Joy,Okafor,Female,2002-10-19,3,Accounting,400,2022
+109,STU20230109,Daniel,Uche,Female,2003-09-25,4,Economics,400,2024
+110,STU20230110,Joy,Obi,Male,2004-04-28,3,Accounting,400,2021
+111,STU20230111,Chioma,Uche,Female,2004-11-26,3,Accounting,200,2024
+112,STU20230112,Emeka,Olawale,Female,1999-08-04,1,Computer Science,400,2021
+113,STU20230113,David,Nwosu,Male,2005-05-11,2,Mathematics,400,2021
+114,STU20230114,Joy,Olawale,Female,2003-11-23,3,Accounting,400,2021
+115,STU20230115,Ngozi,Adebayo,Male,1999-07-04,1,Computer Science,100,2024
+116,STU20230116,Chioma,Adebayo,Male,1998-06-26,2,Mathematics,100,2023
+117,STU20230117,Amaka,Ibrahim,Male,2001-09-14,3,Accounting,200,2022
+118,STU20230118,Adaeze,Adeyemi,Female,2001-08-19,2,Mathematics,200,2022
+119,STU20230119,Samuel,Adebayo,Female,2002-11-01,4,Economics,400,2023
+120,STU20230120,Adaeze,Uche,Female,2002-11-14,2,Mathematics,300,2024
+121,STU20230121,Ngozi,Ibrahim,Female,1999-04-13,3,Accounting,300,2023
+122,STU20230122,Chinedu,Ibrahim,Female,1998-10-28,3,Accounting,100,2024
+123,STU20230123,Michael,Obi,Female,2001-11-07,3,Accounting,300,2022
+124,STU20230124,Victor,Okafor,Female,2005-01-19,1,Computer Science,300,2022
+125,STU20230125,Victor,Adebayo,Female,2004-03-07,1,Computer Science,200,2023
+126,STU20230126,Joy,Nwosu,Female,2005-05-24,3,Accounting,300,2021
+127,STU20230127,Adaeze,Nwosu,Male,2004-09-12,4,Economics,100,2024
+128,STU20230128,Ifeanyi,Olawale,Male,2005-06-22,1,Computer Science,300,2024
+129,STU20230129,Adaeze,Obi,Female,1998-10-18,3,Accounting,300,2022
+130,STU20230130,Samuel,Uche,Female,2004-02-05,1,Computer Science,100,2021
+131,STU20230131,Grace,Eze,Male,2001-09-05,3,Accounting,400,2024
+132,STU20230132,Samuel,Olawale,Female,2000-07-21,3,Accounting,100,2024
+133,STU20230133,Ifeanyi,Okafor,Female,2001-08-15,4,Economics,200,2023
+134,STU20230134,Samuel,Okeke,Female,1998-07-09,1,Computer Science,200,2021
+135,STU20230135,Adaeze,Obi,Male,1998-06-08,4,Economics,200,2022
+136,STU20230136,Joy,Olawale,Male,2001-04-11,1,Computer Science,200,2021
+137,STU20230137,Joy,Nwosu,Male,2006-05-26,3,Accounting,200,2021
+138,STU20230138,Emeka,Okafor,Female,2001-10-11,1,Computer Science,100,2022
+139,STU20230139,Chinedu,Nwosu,Female,2006-02-24,3,Accounting,100,2024
+140,STU20230140,Michael,Okeke,Male,2005-09-08,4,Economics,100,2023
+141,STU20230141,Samuel,Okafor,Male,2005-07-14,4,Economics,100,2024
+142,STU20230142,Adaeze,Eze,Female,2000-02-05,4,Economics,300,2023
+143,STU20230143,Esther,Olawale,Female,2005-09-20,4,Economics,400,2021
+144,STU20230144,Joy,Olawale,Male,2004-08-08,1,Computer Science,400,2023
+145,STU20230145,David,Ibrahim,Male,2003-07-11,4,Economics,300,2023
+146,STU20230146,Samuel,Uche,Male,1999-02-03,2,Mathematics,400,2021
+147,STU20230147,Michael,Nwosu,Male,2006-09-11,3,Accounting,100,2024
+148,STU20230148,Joy,Ibrahim,Male,2002-10-10,3,Accounting,300,2021
+149,STU20230149,Emeka,Uche,Male,1999-06-28,2,Mathematics,300,2021
+150,STU20230150,Esther,Obi,Female,2006-10-20,3,Accounting,100,2023
+151,STU20230151,Emeka,Adebayo,Female,2003-06-01,1,Computer Science,200,2022
+152,STU20230152,Adaeze,Nwosu,Male,1999-12-17,4,Economics,200,2024
+153,STU20230153,Grace,Okeke,Male,2003-05-24,4,Economics,300,2021
+154,STU20230154,Emeka,Nwosu,Male,1999-05-15,1,Computer Science,400,2024
+155,STU20230155,David,Adebayo,Male,2006-02-12,4,Economics,400,2021
+156,STU20230156,Samuel,Adeyemi,Female,2006-11-10,3,Accounting,100,2022
+157,STU20230157,Esther,Okafor,Male,2001-05-07,4,Economics,200,2023
+158,STU20230158,Amaka,Eze,Male,2005-12-14,3,Accounting,200,2022
+159,STU20230159,Daniel,Obi,Female,1999-07-28,4,Economics,100,2024
+160,STU20230160,Grace,Eze,Female,2004-10-13,1,Computer Science,400,2023
+161,STU20230161,David,Okafor,Female,2000-10-15,1,Computer Science,300,2021
+162,STU20230162,Joy,Eze,Male,2004-10-13,4,Economics,100,2024
+163,STU20230163,Chioma,Okeke,Male,2003-03-03,3,Accounting,100,2022
+164,STU20230164,Amaka,Nwosu,Male,1999-03-09,3,Accounting,200,2022
+165,STU20230165,Michael,Eze,Male,2005-08-25,2,Mathematics,400,2023
+166,STU20230166,Emeka,Uche,Male,2005-08-21,3,Accounting,300,2023
+167,STU20230167,Amaka,Olawale,Male,2002-08-15,1,Computer Science,100,2021
+168,STU20230168,Joy,Adebayo,Male,1999-10-20,3,Accounting,400,2024
+169,STU20230169,Grace,Adeyemi,Male,2003-10-16,1,Computer Science,200,2021
+170,STU20230170,Adaeze,Okeke,Male,2006-11-06,4,Economics,100,2022
+171,STU20230171,Grace,Olawale,Male,2003-06-10,4,Economics,400,2024
+172,STU20230172,Samuel,Adeyemi,Male,2003-02-11,3,Accounting,100,2024
+173,STU20230173,Ifeanyi,Adeyemi,Male,2003-02-19,3,Accounting,200,2023
+174,STU20230174,Samuel,Ibrahim,Male,1999-05-18,3,Accounting,400,2023
+175,STU20230175,Samuel,Olawale,Male,2004-09-12,2,Mathematics,100,2023
+176,STU20230176,Emeka,Obi,Female,2005-04-08,3,Accounting,200,2022
+177,STU20230177,Ifeanyi,Eze,Male,2003-10-05,1,Computer Science,400,2022
+178,STU20230178,Emeka,Adeyemi,Male,2005-01-14,2,Mathematics,300,2022
+179,STU20230179,Esther,Adebayo,Female,2001-09-08,4,Economics,300,2024
+180,STU20230180,Amaka,Adeyemi,Female,2005-05-25,2,Mathematics,400,2024
+181,STU20230181,Joy,Obi,Male,2002-01-21,2,Mathematics,400,2023
+182,STU20230182,Chioma,Olawale,Male,2002-02-25,1,Computer Science,200,2023
+183,STU20230183,Victor,Olawale,Male,2004-02-08,4,Economics,400,2023
+184,STU20230184,David,Okafor,Female,2006-06-08,1,Computer Science,400,2021
+185,STU20230185,Ngozi,Okafor,Female,1999-12-21,3,Accounting,300,2022
+186,STU20230186,Chinedu,Adebayo,Female,2000-12-16,2,Mathematics,400,2021
+187,STU20230187,Chinedu,Adebayo,Male,2000-09-24,1,Computer Science,400,2021
+188,STU20230188,Ngozi,Adebayo,Male,1998-04-14,3,Accounting,400,2021
+189,STU20230189,Joy,Uche,Male,2006-10-08,1,Computer Science,200,2023
+190,STU20230190,Chinedu,Adeyemi,Female,2001-10-14,4,Economics,200,2021
+191,STU20230191,Adaeze,Olawale,Male,2004-08-02,3,Accounting,400,2023
+192,STU20230192,Chioma,Okafor,Female,1999-06-08,3,Accounting,100,2023
+193,STU20230193,Chinedu,Okeke,Female,2000-11-15,2,Mathematics,400,2022
+194,STU20230194,Adaeze,Uche,Male,2002-04-02,2,Mathematics,200,2021
+195,STU20230195,Victor,Adebayo,Female,2006-08-09,3,Accounting,100,2022
+196,STU20230196,Amaka,Okafor,Female,2002-02-26,3,Accounting,300,2024
+197,STU20230197,Chioma,Uche,Female,2003-03-16,4,Economics,400,2023
+198,STU20230198,Michael,Eze,Female,1999-07-20,3,Accounting,200,2023
+199,STU20230199,Adaeze,Eze,Female,2002-05-15,3,Accounting,400,2022
+200,STU20230200,Amaka,Uche,Male,2003-10-14,4,Economics,300,2021
+201,STU20230201,Samuel,Ibrahim,Female,2006-12-22,1,Computer Science,200,2021
+202,STU20230202,Joy,Adeyemi,Female,1998-03-03,2,Mathematics,200,2023
+203,STU20230203,David,Adeyemi,Male,2000-11-15,3,Accounting,300,2023
+204,STU20230204,Michael,Eze,Male,2006-06-13,4,Economics,300,2023
+205,STU20230205,Adaeze,Okafor,Male,2005-09-13,2,Mathematics,100,2023
+206,STU20230206,Chioma,Uche,Male,2002-12-16,3,Accounting,200,2021
+207,STU20230207,Joy,Eze,Female,2000-12-15,2,Mathematics,100,2023
+208,STU20230208,Chioma,Eze,Female,2002-03-23,3,Accounting,200,2023
+209,STU20230209,Adaeze,Obi,Male,2001-08-01,2,Mathematics,300,2023
+210,STU20230210,Michael,Olawale,Male,1999-02-10,4,Economics,400,2024
+211,STU20230211,Michael,Ibrahim,Male,2000-06-21,4,Economics,100,2024
+212,STU20230212,Samuel,Olawale,Female,2000-09-21,4,Economics,200,2022
+213,STU20230213,Daniel,Okafor,Male,2006-03-10,4,Economics,200,2022
+214,STU20230214,Victor,Obi,Female,2006-05-28,3,Accounting,100,2023
+215,STU20230215,Samuel,Olawale,Female,2000-11-10,2,Mathematics,100,2022
+216,STU20230216,Emeka,Adeyemi,Female,1998-01-03,2,Mathematics,100,2023
+217,STU20230217,Michael,Adeyemi,Female,1998-08-21,2,Mathematics,300,2023
+218,STU20230218,Ngozi,Ibrahim,Female,2005-02-23,4,Economics,100,2022
+219,STU20230219,David,Uche,Female,2001-06-20,4,Economics,200,2023
+220,STU20230220,Chioma,Okeke,Female,2000-06-17,3,Accounting,100,2023
+221,STU20230221,Grace,Eze,Female,2005-04-05,2,Mathematics,100,2021
+222,STU20230222,David,Adeyemi,Female,2001-03-27,3,Accounting,300,2023
+223,STU20230223,Michael,Nwosu,Female,2006-08-16,2,Mathematics,300,2024
+224,STU20230224,Adaeze,Ibrahim,Female,2001-04-19,1,Computer Science,300,2021
+225,STU20230225,Ifeanyi,Uche,Female,2002-09-01,1,Computer Science,100,2024
+226,STU20230226,Victor,Adebayo,Female,2004-06-02,2,Mathematics,400,2021
+227,STU20230227,Amaka,Olawale,Female,1999-07-17,2,Mathematics,400,2023
+228,STU20230228,Emeka,Eze,Female,2003-06-18,1,Computer Science,300,2022
+229,STU20230229,Esther,Olawale,Female,2006-01-02,2,Mathematics,100,2022
+230,STU20230230,Michael,Uche,Female,2000-10-17,3,Accounting,200,2023
+231,STU20230231,Emeka,Ibrahim,Female,2003-09-27,3,Accounting,400,2023
+232,STU20230232,Joy,Okafor,Female,2003-11-04,4,Economics,400,2023
+233,STU20230233,Esther,Uche,Female,2001-12-02,1,Computer Science,400,2022
+234,STU20230234,Emeka,Obi,Male,1999-04-01,4,Economics,400,2023
+235,STU20230235,Emeka,Ibrahim,Male,2004-09-25,4,Economics,400,2021
+236,STU20230236,Daniel,Obi,Female,2005-09-13,2,Mathematics,300,2022
+237,STU20230237,Victor,Olawale,Female,2006-06-22,4,Economics,300,2024
+238,STU20230238,Ngozi,Adebayo,Female,2001-05-25,2,Mathematics,300,2022
+239,STU20230239,Amaka,Uche,Female,2006-12-09,4,Economics,300,2021
+240,STU20230240,Victor,Ibrahim,Female,2000-05-02,4,Economics,300,2021
+241,STU20230241,Victor,Uche,Female,2005-04-07,3,Accounting,300,2023
+242,STU20230242,Adaeze,Adeyemi,Male,2001-01-22,2,Mathematics,200,2022
+243,STU20230243,Adaeze,Ibrahim,Female,2005-02-22,1,Computer Science,200,2021
+244,STU20230244,David,Uche,Female,2001-05-11,2,Mathematics,300,2021
+245,STU20230245,Samuel,Adeyemi,Male,2006-12-24,1,Computer Science,100,2022
+246,STU20230246,Victor,Nwosu,Male,2004-08-06,4,Economics,300,2021
+247,STU20230247,Ifeanyi,Adeyemi,Male,2003-05-15,1,Computer Science,400,2022
+248,STU20230248,Ifeanyi,Obi,Male,2003-03-24,4,Economics,400,2023
+249,STU20230249,Chinedu,Okeke,Female,2001-03-20,2,Mathematics,400,2024
+250,STU20230250,Adaeze,Ibrahim,Male,2000-03-16,3,Accounting,300,2022
+251,STU20230251,Ifeanyi,Ibrahim,Male,2005-05-11,1,Computer Science,300,2021
+252,STU20230252,Samuel,Okeke,Male,1998-11-04,3,Accounting,400,2023
+253,STU20230253,David,Olawale,Female,1999-11-10,2,Mathematics,300,2022
+254,STU20230254,Emeka,Uche,Male,2005-12-20,2,Mathematics,300,2024
+255,STU20230255,Michael,Olawale,Male,2001-11-25,4,Economics,100,2024
+256,STU20230256,Adaeze,Adeyemi,Male,1998-09-17,3,Accounting,200,2022
+257,STU20230257,Amaka,Olawale,Female,1999-11-07,2,Mathematics,400,2021
+258,STU20230258,Michael,Okafor,Female,2000-09-14,4,Economics,400,2021
+259,STU20230259,Samuel,Adebayo,Male,2004-05-27,4,Economics,100,2022
+260,STU20230260,Chinedu,Ibrahim,Female,1999-09-02,1,Computer Science,100,2024
+261,STU20230261,Ifeanyi,Ibrahim,Male,2000-11-24,1,Computer Science,400,2023
+262,STU20230262,Grace,Ibrahim,Female,1999-11-22,4,Economics,200,2023
+263,STU20230263,Emeka,Olawale,Female,2006-03-24,1,Computer Science,200,2021
+264,STU20230264,Ifeanyi,Uche,Female,2006-07-27,1,Computer Science,200,2022
+265,STU20230265,Amaka,Nwosu,Female,2001-12-25,4,Economics,100,2021
+266,STU20230266,Esther,Okafor,Male,2001-02-04,4,Economics,100,2024
+267,STU20230267,Ngozi,Okafor,Female,2005-04-18,1,Computer Science,200,2021
+268,STU20230268,Daniel,Adebayo,Male,2003-10-20,2,Mathematics,300,2022
+269,STU20230269,Victor,Nwosu,Male,2004-05-09,3,Accounting,100,2022
+270,STU20230270,Daniel,Uche,Male,2003-11-22,4,Economics,400,2023
+271,STU20230271,David,Nwosu,Female,2004-03-25,4,Economics,400,2022
+272,STU20230272,Ifeanyi,Nwosu,Female,1998-09-14,2,Mathematics,400,2022
+273,STU20230273,Ngozi,Adebayo,Male,2003-11-03,4,Economics,400,2023
+274,STU20230274,Daniel,Obi,Male,2002-07-22,1,Computer Science,100,2021
+275,STU20230275,Michael,Adeyemi,Male,2005-04-28,2,Mathematics,300,2023
+276,STU20230276,Ngozi,Obi,Male,2005-04-23,1,Computer Science,200,2024
+277,STU20230277,Daniel,Okeke,Female,2004-08-18,2,Mathematics,300,2023
+278,STU20230278,Amaka,Olawale,Female,2005-02-26,3,Accounting,400,2023
+279,STU20230279,Amaka,Okeke,Female,1998-10-28,2,Mathematics,200,2022
+280,STU20230280,Ifeanyi,Olawale,Female,2002-03-07,1,Computer Science,300,2022
+281,STU20230281,Esther,Obi,Female,2006-11-22,4,Economics,300,2023
+282,STU20230282,Chioma,Uche,Female,2000-12-26,4,Economics,300,2022
+283,STU20230283,Chioma,Olawale,Female,2000-09-21,2,Mathematics,100,2021
+284,STU20230284,Joy,Okafor,Male,2004-03-27,1,Computer Science,200,2021
+285,STU20230285,Chinedu,Obi,Female,2003-01-20,2,Mathematics,400,2024
+286,STU20230286,Chinedu,Olawale,Female,1998-01-17,1,Computer Science,300,2023
+287,STU20230287,Daniel,Ibrahim,Male,1999-02-17,1,Computer Science,200,2022
+288,STU20230288,Esther,Olawale,Female,2003-05-26,2,Mathematics,400,2021
+289,STU20230289,David,Uche,Male,2001-05-22,3,Accounting,100,2021
+290,STU20230290,David,Ibrahim,Female,2006-08-02,1,Computer Science,100,2022
+291,STU20230291,Grace,Ibrahim,Female,1999-09-02,1,Computer Science,200,2022
+292,STU20230292,Ifeanyi,Okafor,Male,2002-09-19,4,Economics,100,2022
+293,STU20230293,Chinedu,Obi,Male,2004-02-10,3,Accounting,200,2022
+294,STU20230294,Samuel,Olawale,Female,2004-12-05,4,Economics,100,2023
+295,STU20230295,Adaeze,Ibrahim,Male,1999-06-20,1,Computer Science,400,2023
+296,STU20230296,Samuel,Adebayo,Female,2005-04-12,1,Computer Science,400,2024
+297,STU20230297,Samuel,Adeyemi,Female,1999-10-10,2,Mathematics,200,2021
+298,STU20230298,Ifeanyi,Nwosu,Female,2000-12-13,1,Computer Science,300,2023
+299,STU20230299,Adaeze,Okafor,Female,2005-06-25,1,Computer Science,300,2021
+300,STU20230300,Adaeze,Nwosu,Female,2005-09-18,2,Mathematics,400,2021
+301,STU20230301,Adaeze,Okeke,Male,2003-07-01,1,Computer Science,300,2024
+302,STU20230302,Michael,Eze,Male,2006-03-22,4,Economics,400,2022
+303,STU20230303,Ifeanyi,Adebayo,Female,2005-03-03,2,Mathematics,200,2024
+304,STU20230304,David,Adebayo,Female,1999-06-09,3,Accounting,200,2024
+305,STU20230305,Grace,Eze,Male,2002-01-13,2,Mathematics,300,2024
+306,STU20230306,Grace,Okeke,Female,2000-05-11,3,Accounting,200,2024
+307,STU20230307,Emeka,Ibrahim,Female,2002-12-23,3,Accounting,400,2022
+308,STU20230308,David,Adebayo,Female,2003-02-19,3,Accounting,200,2022
+309,STU20230309,Chioma,Uche,Male,2005-05-27,1,Computer Science,100,2024
+310,STU20230310,Emeka,Adebayo,Male,2002-11-05,4,Economics,400,2024
+311,STU20230311,Grace,Adeyemi,Female,2004-09-17,1,Computer Science,400,2021
+312,STU20230312,Chioma,Olawale,Male,1999-04-22,3,Accounting,300,2022
+313,STU20230313,Esther,Ibrahim,Female,2004-02-01,1,Computer Science,100,2023
+314,STU20230314,Daniel,Olawale,Male,2005-06-13,2,Mathematics,400,2022
+315,STU20230315,Chinedu,Uche,Male,2002-07-03,3,Accounting,100,2022
+316,STU20230316,Ifeanyi,Okeke,Female,2001-09-16,3,Accounting,300,2024
+317,STU20230317,Grace,Uche,Female,1999-05-02,1,Computer Science,100,2021
+318,STU20230318,Samuel,Eze,Male,2001-09-06,3,Accounting,200,2023
+319,STU20230319,Grace,Obi,Female,2000-03-21,4,Economics,400,2024
+320,STU20230320,Chioma,Adeyemi,Male,2005-10-14,1,Computer Science,400,2021
+321,STU20230321,Ngozi,Adebayo,Male,1999-09-06,2,Mathematics,300,2023
+322,STU20230322,Grace,Eze,Female,2005-09-21,2,Mathematics,300,2024
+323,STU20230323,Esther,Eze,Female,2003-08-20,4,Economics,200,2023
+324,STU20230324,Samuel,Nwosu,Female,1999-04-10,1,Computer Science,100,2022
+325,STU20230325,Chioma,Nwosu,Female,2004-10-05,3,Accounting,400,2024
+326,STU20230326,Grace,Olawale,Male,2006-03-16,2,Mathematics,300,2022
+327,STU20230327,Amaka,Uche,Male,2003-01-16,2,Mathematics,200,2022
+328,STU20230328,Daniel,Olawale,Female,2004-11-16,4,Economics,400,2024
+329,STU20230329,Emeka,Eze,Male,2001-05-02,4,Economics,300,2022
+330,STU20230330,Emeka,Uche,Female,2006-09-04,3,Accounting,100,2023
+331,STU20230331,Daniel,Okafor,Female,2006-04-14,3,Accounting,100,2022
+332,STU20230332,Joy,Okafor,Female,2002-06-28,3,Accounting,100,2024
+333,STU20230333,Michael,Obi,Male,2003-12-20,1,Computer Science,400,2022
+334,STU20230334,Michael,Obi,Male,1998-10-12,2,Mathematics,300,2022
+335,STU20230335,Chioma,Adebayo,Female,2002-09-22,3,Accounting,100,2022
+336,STU20230336,Victor,Okafor,Female,2000-12-28,4,Economics,200,2022
+337,STU20230337,Chioma,Okeke,Male,2004-08-05,2,Mathematics,300,2024
+338,STU20230338,Grace,Eze,Male,2004-09-24,4,Economics,300,2023
+339,STU20230339,Grace,Okeke,Male,1999-12-15,4,Economics,300,2021
+340,STU20230340,Ngozi,Ibrahim,Male,2005-05-11,4,Economics,300,2023
+341,STU20230341,Esther,Uche,Female,1998-01-04,2,Mathematics,400,2021
+342,STU20230342,Victor,Nwosu,Female,2005-01-14,1,Computer Science,200,2022
+343,STU20230343,Emeka,Adebayo,Male,2003-05-03,3,Accounting,300,2022
+344,STU20230344,David,Adebayo,Male,2004-11-03,1,Computer Science,100,2021
+345,STU20230345,Grace,Eze,Male,2001-09-22,2,Mathematics,400,2021
+346,STU20230346,Chioma,Okeke,Male,2004-12-05,1,Computer Science,400,2021
+347,STU20230347,David,Eze,Male,1999-06-12,2,Mathematics,300,2022
+348,STU20230348,Michael,Nwosu,Male,1999-09-19,4,Economics,100,2022
+349,STU20230349,Amaka,Obi,Male,2004-10-22,4,Economics,400,2022
+350,STU20230350,Victor,Eze,Male,1999-10-24,1,Computer Science,400,2023
+351,STU20230351,Amaka,Nwosu,Male,2002-11-03,4,Economics,200,2023
+352,STU20230352,Joy,Adebayo,Male,2006-10-17,1,Computer Science,200,2024
+353,STU20230353,Samuel,Okafor,Male,2005-07-04,3,Accounting,200,2024
+354,STU20230354,Daniel,Okafor,Female,2003-03-13,1,Computer Science,400,2023
+355,STU20230355,Michael,Uche,Male,1998-10-03,2,Mathematics,100,2023
+356,STU20230356,Chinedu,Okafor,Female,2006-05-21,2,Mathematics,400,2024
+357,STU20230357,Adaeze,Olawale,Male,2002-02-10,4,Economics,100,2022
+358,STU20230358,Daniel,Okeke,Female,1999-05-23,2,Mathematics,400,2022
+359,STU20230359,Ngozi,Eze,Female,1999-08-20,1,Computer Science,100,2023
+360,STU20230360,Adaeze,Okafor,Male,1998-03-16,2,Mathematics,300,2023
+361,STU20230361,Amaka,Nwosu,Female,1999-01-11,2,Mathematics,400,2023
+362,STU20230362,Ifeanyi,Adeyemi,Male,2005-08-17,1,Computer Science,300,2021
+363,STU20230363,Joy,Adeyemi,Male,2003-03-09,4,Economics,100,2021
+364,STU20230364,Chioma,Olawale,Male,1998-01-08,2,Mathematics,100,2024
+365,STU20230365,David,Nwosu,Male,1998-09-26,3,Accounting,400,2022
+366,STU20230366,Ngozi,Ibrahim,Female,2002-02-19,3,Accounting,300,2021
+367,STU20230367,Emeka,Obi,Male,2004-02-15,1,Computer Science,300,2023
+368,STU20230368,Adaeze,Olawale,Female,1998-06-07,3,Accounting,300,2023
+369,STU20230369,Grace,Okeke,Female,2001-12-18,2,Mathematics,200,2022
+370,STU20230370,Victor,Ibrahim,Male,2001-09-12,1,Computer Science,100,2023
+371,STU20230371,Michael,Ibrahim,Female,1999-04-17,1,Computer Science,200,2024
+372,STU20230372,Chinedu,Nwosu,Female,1999-01-08,4,Economics,400,2023
+373,STU20230373,Chioma,Eze,Male,2006-03-21,4,Economics,400,2021
+374,STU20230374,David,Nwosu,Male,2002-05-28,1,Computer Science,300,2024
+375,STU20230375,Amaka,Uche,Female,2001-02-07,3,Accounting,200,2021
+376,STU20230376,Adaeze,Nwosu,Female,2005-06-14,2,Mathematics,100,2023
+377,STU20230377,Grace,Adebayo,Female,2002-02-03,2,Mathematics,200,2023
+378,STU20230378,Ngozi,Okeke,Male,1999-12-08,1,Computer Science,300,2024
+379,STU20230379,Samuel,Adebayo,Female,2000-01-13,1,Computer Science,400,2022
+380,STU20230380,Grace,Eze,Male,1999-01-02,1,Computer Science,200,2022
+381,STU20230381,Joy,Ibrahim,Female,1999-10-19,2,Mathematics,300,2021
+382,STU20230382,Adaeze,Obi,Female,2000-02-28,1,Computer Science,300,2021
+383,STU20230383,Grace,Okafor,Male,2004-12-13,1,Computer Science,400,2021
+384,STU20230384,Samuel,Ibrahim,Male,2003-04-06,4,Economics,300,2023
+385,STU20230385,Victor,Nwosu,Male,2001-11-10,4,Economics,400,2024
+386,STU20230386,Chinedu,Eze,Female,2004-03-14,4,Economics,200,2022
+387,STU20230387,David,Okeke,Female,2006-08-12,1,Computer Science,300,2024
+388,STU20230388,Emeka,Okafor,Female,2001-01-26,3,Accounting,300,2021
+389,STU20230389,Daniel,Okeke,Male,2000-02-08,4,Economics,200,2023
+390,STU20230390,Michael,Obi,Female,2003-03-06,1,Computer Science,200,2023
+391,STU20230391,Victor,Adeyemi,Male,2003-10-19,3,Accounting,200,2022
+392,STU20230392,Daniel,Adebayo,Male,2005-01-03,4,Economics,100,2022
+393,STU20230393,Chinedu,Olawale,Female,1998-06-20,2,Mathematics,200,2022
+394,STU20230394,Chioma,Nwosu,Female,1998-01-05,3,Accounting,200,2021
+395,STU20230395,Adaeze,Okeke,Female,1999-06-10,3,Accounting,300,2022
+396,STU20230396,Chioma,Ibrahim,Female,2003-03-23,2,Mathematics,300,2022
+397,STU20230397,David,Adebayo,Female,2000-03-24,2,Mathematics,100,2024
+398,STU20230398,Emeka,Adeyemi,Female,2001-11-19,1,Computer Science,100,2024
+399,STU20230399,Amaka,Eze,Male,2003-06-06,2,Mathematics,100,2023
+400,STU20230400,Chinedu,Adebayo,Male,2001-12-03,4,Economics,300,2023
+401,STU20230401,Chioma,Okafor,Male,2004-08-24,1,Computer Science,400,2022
+402,STU20230402,Grace,Ibrahim,Female,2006-07-04,4,Economics,400,2022
+403,STU20230403,Grace,Eze,Male,2002-01-11,2,Mathematics,300,2021
+404,STU20230404,Amaka,Nwosu,Female,2000-12-03,1,Computer Science,100,2023
+405,STU20230405,Chioma,Okafor,Female,2000-10-14,4,Economics,200,2021
+406,STU20230406,Amaka,Obi,Male,2004-12-18,1,Computer Science,300,2023
+407,STU20230407,Ngozi,Eze,Male,2004-10-18,3,Accounting,400,2022
+408,STU20230408,Amaka,Okafor,Female,1999-05-27,1,Computer Science,400,2022
+409,STU20230409,Chinedu,Obi,Male,2002-02-16,1,Computer Science,100,2023
+410,STU20230410,Grace,Uche,Female,1999-11-18,4,Economics,400,2022
+411,STU20230411,Victor,Ibrahim,Female,2000-08-02,3,Accounting,300,2024
+412,STU20230412,Ifeanyi,Obi,Female,1998-03-25,4,Economics,100,2021
+413,STU20230413,Michael,Olawale,Female,2001-09-02,3,Accounting,400,2024
+414,STU20230414,Esther,Obi,Female,2002-02-13,4,Economics,100,2022
+415,STU20230415,Michael,Uche,Male,2000-04-26,1,Computer Science,200,2022
+416,STU20230416,David,Eze,Female,2001-11-05,1,Computer Science,300,2023
+417,STU20230417,Adaeze,Ibrahim,Female,2006-06-28,1,Computer Science,300,2024
+418,STU20230418,Michael,Adeyemi,Female,1999-07-05,1,Computer Science,200,2021
+419,STU20230419,Esther,Eze,Female,2006-06-14,1,Computer Science,300,2024
+420,STU20230420,Esther,Adeyemi,Female,1998-03-09,4,Economics,400,2022
+421,STU20230421,Chinedu,Ibrahim,Female,2001-01-24,4,Economics,400,2023
+422,STU20230422,Chinedu,Okeke,Female,2002-05-27,3,Accounting,400,2021
+423,STU20230423,Emeka,Adebayo,Female,2003-05-24,2,Mathematics,400,2021
+424,STU20230424,Grace,Obi,Female,2005-09-28,2,Mathematics,300,2021
+425,STU20230425,Adaeze,Adebayo,Female,2000-09-19,2,Mathematics,100,2022
+426,STU20230426,Victor,Obi,Male,2001-01-15,2,Mathematics,100,2023
+427,STU20230427,Ifeanyi,Okeke,Female,2006-07-21,2,Mathematics,100,2021
+428,STU20230428,Amaka,Uche,Female,2000-08-19,2,Mathematics,300,2023
+429,STU20230429,Joy,Adebayo,Male,2002-01-13,2,Mathematics,100,2022
+430,STU20230430,Joy,Obi,Male,2001-05-21,2,Mathematics,400,2021
+431,STU20230431,Grace,Nwosu,Male,1998-04-09,1,Computer Science,300,2023
+432,STU20230432,Victor,Ibrahim,Female,2005-05-07,4,Economics,400,2023
+433,STU20230433,Esther,Eze,Male,2006-11-27,4,Economics,300,2023
+434,STU20230434,Samuel,Eze,Female,1999-06-09,3,Accounting,300,2023
+435,STU20230435,Samuel,Adebayo,Male,2000-09-25,3,Accounting,200,2021
+436,STU20230436,Samuel,Okeke,Male,1998-11-16,4,Economics,300,2023
+437,STU20230437,David,Ibrahim,Male,2001-06-24,4,Economics,200,2024
+438,STU20230438,Daniel,Adebayo,Male,2006-03-10,3,Accounting,100,2024
+439,STU20230439,Chioma,Adebayo,Male,2003-11-03,2,Mathematics,200,2023
+440,STU20230440,Chioma,Adebayo,Female,2003-06-09,2,Mathematics,300,2024
+441,STU20230441,Grace,Okafor,Male,2005-04-17,1,Computer Science,100,2024
+442,STU20230442,David,Okafor,Male,2000-04-11,3,Accounting,400,2024
+443,STU20230443,Amaka,Nwosu,Male,2005-06-21,2,Mathematics,200,2023
+444,STU20230444,Chinedu,Uche,Female,2001-03-19,1,Computer Science,200,2024
+445,STU20230445,Emeka,Adeyemi,Female,2004-07-14,1,Computer Science,400,2024
+446,STU20230446,Chinedu,Olawale,Male,2003-01-11,1,Computer Science,200,2021
+447,STU20230447,Samuel,Obi,Male,2003-05-05,1,Computer Science,100,2024
+448,STU20230448,Emeka,Eze,Male,2002-05-15,3,Accounting,300,2024
+449,STU20230449,Amaka,Uche,Female,2001-03-26,2,Mathematics,400,2021
+450,STU20230450,Ngozi,Nwosu,Male,1998-10-17,2,Mathematics,200,2021
+451,STU20230451,Chioma,Okafor,Female,2002-09-20,3,Accounting,100,2021
+452,STU20230452,Samuel,Okafor,Male,1999-07-15,1,Computer Science,400,2021
+453,STU20230453,Grace,Nwosu,Male,1998-05-14,3,Accounting,100,2023
+454,STU20230454,David,Eze,Male,2002-02-26,2,Mathematics,100,2024
+455,STU20230455,Esther,Obi,Female,2006-04-12,2,Mathematics,400,2023
+456,STU20230456,Chinedu,Olawale,Female,2001-12-16,2,Mathematics,300,2022
+457,STU20230457,Chinedu,Eze,Male,2005-03-03,1,Computer Science,100,2021
+458,STU20230458,Samuel,Obi,Female,2002-05-15,3,Accounting,100,2021
+459,STU20230459,Joy,Okafor,Female,2003-11-11,2,Mathematics,400,2021
+460,STU20230460,Joy,Okafor,Male,2000-11-21,1,Computer Science,200,2023
+461,STU20230461,Victor,Uche,Female,1999-06-27,3,Accounting,300,2022
+462,STU20230462,David,Ibrahim,Female,2002-07-23,1,Computer Science,400,2024
+463,STU20230463,Adaeze,Nwosu,Male,2000-02-14,2,Mathematics,400,2024
+464,STU20230464,Esther,Ibrahim,Female,1998-11-27,2,Mathematics,200,2024
+465,STU20230465,Adaeze,Ibrahim,Female,1998-02-09,4,Economics,300,2021
+466,STU20230466,Samuel,Okeke,Male,2004-11-24,2,Mathematics,200,2024
+467,STU20230467,Samuel,Ibrahim,Male,2006-10-02,3,Accounting,100,2022
+468,STU20230468,Joy,Uche,Male,1999-08-11,4,Economics,200,2023
+469,STU20230469,Chinedu,Olawale,Male,2006-11-13,3,Accounting,400,2022
+470,STU20230470,Grace,Uche,Female,1999-08-15,1,Computer Science,300,2021
+471,STU20230471,Chioma,Okafor,Male,2004-07-02,4,Economics,100,2021
+472,STU20230472,Victor,Olawale,Male,2005-06-12,3,Accounting,100,2022
+473,STU20230473,Amaka,Olawale,Female,2003-12-15,4,Economics,100,2021
+474,STU20230474,Chinedu,Okeke,Female,2002-09-17,2,Mathematics,300,2021
+475,STU20230475,Victor,Nwosu,Female,2000-12-24,1,Computer Science,400,2021
+476,STU20230476,Esther,Obi,Male,1999-07-07,3,Accounting,400,2022
+477,STU20230477,Adaeze,Ibrahim,Male,1999-08-15,3,Accounting,200,2024
+478,STU20230478,Daniel,Okafor,Female,2005-09-25,1,Computer Science,200,2022
+479,STU20230479,Adaeze,Ibrahim,Female,2006-07-14,2,Mathematics,200,2023
+480,STU20230480,Amaka,Adebayo,Female,2000-03-14,4,Economics,300,2023
+481,STU20230481,Ngozi,Obi,Female,2003-11-05,2,Mathematics,200,2023
+482,STU20230482,Michael,Okeke,Female,2004-11-24,1,Computer Science,300,2024
+483,STU20230483,Daniel,Eze,Male,2004-03-02,1,Computer Science,100,2022
+484,STU20230484,Michael,Nwosu,Female,2002-03-27,3,Accounting,100,2023
+485,STU20230485,Michael,Olawale,Male,2003-08-04,2,Mathematics,200,2024
+486,STU20230486,Daniel,Adebayo,Male,2004-07-14,2,Mathematics,300,2021
+487,STU20230487,Chioma,Adebayo,Male,2005-04-21,1,Computer Science,300,2022
+488,STU20230488,Ifeanyi,Uche,Male,1999-03-06,2,Mathematics,100,2024
+489,STU20230489,David,Adebayo,Female,2000-03-19,1,Computer Science,300,2021
+490,STU20230490,Grace,Nwosu,Male,2000-06-20,3,Accounting,100,2023
+491,STU20230491,Michael,Adeyemi,Female,1999-12-11,4,Economics,200,2022
+492,STU20230492,Michael,Olawale,Male,2004-09-18,1,Computer Science,400,2021
+493,STU20230493,Ngozi,Obi,Female,2003-06-10,3,Accounting,200,2024
+494,STU20230494,Adaeze,Okeke,Female,2001-11-20,1,Computer Science,200,2021
+495,STU20230495,David,Eze,Female,2002-09-24,3,Accounting,300,2021
+496,STU20230496,Daniel,Olawale,Female,2005-01-10,3,Accounting,200,2023
+497,STU20230497,Adaeze,Nwosu,Male,1999-04-22,1,Computer Science,200,2024
+498,STU20230498,Ngozi,Olawale,Female,1999-12-22,1,Computer Science,200,2021
+499,STU20230499,Chioma,Okeke,Male,1999-02-02,4,Economics,200,2023
+500,STU20230500,Esther,Obi,Female,2004-07-15,1,Computer Science,400,2024
+501,STU20230501,Chinedu,Ibrahim,Male,2006-01-21,3,Accounting,100,2021
+502,STU20230502,Amaka,Olawale,Male,2002-11-10,1,Computer Science,100,2023
+503,STU20230503,David,Ibrahim,Male,2005-03-18,4,Economics,200,2022
+504,STU20230504,Michael,Olawale,Female,2000-05-22,4,Economics,300,2021
+505,STU20230505,Adaeze,Okafor,Male,2004-09-18,2,Mathematics,100,2023
+506,STU20230506,Chioma,Okeke,Male,2004-11-28,2,Mathematics,200,2022
+507,STU20230507,Ngozi,Adeyemi,Female,2001-02-06,2,Mathematics,100,2024
+508,STU20230508,Ifeanyi,Eze,Female,1999-04-24,1,Computer Science,400,2023
+509,STU20230509,Emeka,Obi,Male,2002-10-03,3,Accounting,200,2023
+510,STU20230510,Grace,Okeke,Female,2000-10-19,4,Economics,300,2023
+511,STU20230511,Emeka,Okafor,Female,2001-04-23,4,Economics,400,2023
+512,STU20230512,Emeka,Okeke,Female,2005-08-12,3,Accounting,300,2024
+513,STU20230513,Emeka,Adeyemi,Male,2002-03-18,1,Computer Science,200,2023
+514,STU20230514,Chioma,Eze,Male,2006-11-01,1,Computer Science,400,2022
+515,STU20230515,Daniel,Adebayo,Female,2000-06-13,1,Computer Science,200,2023
+516,STU20230516,Grace,Olawale,Male,2004-06-17,2,Mathematics,100,2022
+517,STU20230517,Michael,Olawale,Male,2005-03-06,2,Mathematics,200,2024
+518,STU20230518,Chinedu,Obi,Female,2001-02-09,3,Accounting,300,2022
+519,STU20230519,Samuel,Obi,Female,2004-08-15,1,Computer Science,100,2021
+520,STU20230520,Adaeze,Olawale,Female,2002-10-18,3,Accounting,200,2024
+521,STU20230521,Amaka,Adeyemi,Male,2006-05-13,4,Economics,200,2024
+522,STU20230522,Joy,Okeke,Female,2005-10-01,3,Accounting,200,2024
+523,STU20230523,Ngozi,Eze,Female,2001-03-06,2,Mathematics,200,2023
+524,STU20230524,Samuel,Obi,Female,2003-12-04,1,Computer Science,400,2024
+525,STU20230525,Ngozi,Adeyemi,Male,2004-01-08,4,Economics,100,2022
+526,STU20230526,Emeka,Olawale,Male,2000-01-06,2,Mathematics,300,2022
+527,STU20230527,Esther,Adeyemi,Male,2002-02-07,4,Economics,400,2024
+528,STU20230528,Emeka,Obi,Female,2000-10-27,4,Economics,200,2023
+529,STU20230529,Chioma,Okeke,Female,1999-04-13,2,Mathematics,400,2022
+530,STU20230530,Chinedu,Obi,Female,2000-10-04,1,Computer Science,200,2024
+531,STU20230531,Victor,Olawale,Male,1999-08-22,1,Computer Science,200,2021
+532,STU20230532,Daniel,Ibrahim,Female,1998-12-17,4,Economics,400,2022
+533,STU20230533,Michael,Ibrahim,Female,1999-07-05,4,Economics,300,2024
+534,STU20230534,Victor,Eze,Female,2006-07-09,2,Mathematics,200,2021
+535,STU20230535,Esther,Olawale,Male,2006-01-13,1,Computer Science,200,2023
+536,STU20230536,Amaka,Eze,Male,2004-11-19,4,Economics,300,2023
+537,STU20230537,Esther,Okeke,Female,2004-04-14,4,Economics,400,2022
+538,STU20230538,Daniel,Olawale,Female,2002-05-19,3,Accounting,300,2024
+539,STU20230539,Joy,Eze,Male,2005-12-06,2,Mathematics,100,2022
+540,STU20230540,Michael,Okeke,Male,2000-07-21,4,Economics,100,2021
+541,STU20230541,Grace,Adeyemi,Female,1999-02-09,2,Mathematics,200,2023
+542,STU20230542,Esther,Okafor,Female,2004-10-21,1,Computer Science,300,2021
+543,STU20230543,Samuel,Uche,Female,1998-04-28,2,Mathematics,300,2022
+544,STU20230544,Michael,Adeyemi,Male,2000-11-02,1,Computer Science,300,2022
+545,STU20230545,Emeka,Eze,Female,2004-06-22,1,Computer Science,400,2024
+546,STU20230546,Daniel,Okafor,Male,1999-09-10,2,Mathematics,300,2023
+547,STU20230547,Ngozi,Adeyemi,Male,2005-07-19,3,Accounting,100,2023
+548,STU20230548,David,Olawale,Male,2006-02-17,2,Mathematics,300,2023
+549,STU20230549,Michael,Olawale,Female,2006-10-09,1,Computer Science,400,2024
+550,STU20230550,Michael,Obi,Female,2005-11-15,4,Economics,100,2024
+551,STU20230551,Ifeanyi,Eze,Female,2001-11-23,1,Computer Science,200,2023
+552,STU20230552,Amaka,Olawale,Male,2002-04-10,4,Economics,100,2024
+553,STU20230553,Adaeze,Olawale,Male,2005-06-12,3,Accounting,200,2023
+554,STU20230554,Chioma,Obi,Female,2001-04-24,2,Mathematics,200,2023
+555,STU20230555,Ngozi,Obi,Male,2003-03-25,2,Mathematics,100,2021
+556,STU20230556,Samuel,Uche,Male,2006-01-28,1,Computer Science,400,2023
+557,STU20230557,Grace,Adeyemi,Female,2005-03-25,3,Accounting,300,2024
+558,STU20230558,Michael,Adeyemi,Male,1998-09-26,2,Mathematics,400,2024
+559,STU20230559,Daniel,Okeke,Female,2000-08-04,1,Computer Science,400,2023
+560,STU20230560,Chinedu,Obi,Female,1999-06-12,1,Computer Science,300,2022
+561,STU20230561,Ngozi,Adebayo,Female,2003-06-06,3,Accounting,400,2024
+562,STU20230562,David,Okeke,Female,2004-05-15,2,Mathematics,200,2022
+563,STU20230563,Joy,Eze,Female,2001-09-14,2,Mathematics,400,2022
+564,STU20230564,Michael,Nwosu,Female,1998-03-14,2,Mathematics,400,2022
+565,STU20230565,Michael,Uche,Female,2002-09-28,3,Accounting,100,2024
+566,STU20230566,Chioma,Nwosu,Male,2001-05-16,1,Computer Science,100,2024
+567,STU20230567,Ifeanyi,Okeke,Female,2006-09-26,3,Accounting,300,2023
+568,STU20230568,David,Eze,Female,2001-10-19,1,Computer Science,200,2023
+569,STU20230569,Amaka,Olawale,Female,2005-02-13,3,Accounting,300,2024
+570,STU20230570,Joy,Nwosu,Female,2004-11-20,2,Mathematics,400,2021
+571,STU20230571,Emeka,Okeke,Male,2003-06-21,1,Computer Science,300,2023
+572,STU20230572,Ifeanyi,Uche,Female,2006-08-14,4,Economics,200,2022
+573,STU20230573,Emeka,Obi,Female,1999-04-06,1,Computer Science,400,2021
+574,STU20230574,Adaeze,Uche,Male,1998-07-17,1,Computer Science,100,2021
+575,STU20230575,Esther,Nwosu,Male,2004-05-08,3,Accounting,200,2023
+576,STU20230576,Samuel,Nwosu,Male,2006-03-01,4,Economics,100,2023
+577,STU20230577,Joy,Uche,Female,2006-05-18,3,Accounting,400,2022
+578,STU20230578,Esther,Adeyemi,Female,2004-09-21,2,Mathematics,300,2023
+579,STU20230579,Daniel,Obi,Male,2005-05-12,4,Economics,400,2023
+580,STU20230580,Ifeanyi,Okafor,Male,2006-03-12,2,Mathematics,300,2024
+581,STU20230581,Chioma,Uche,Female,2002-01-25,1,Computer Science,400,2023
+582,STU20230582,Michael,Okafor,Female,2001-07-18,2,Mathematics,400,2024
+583,STU20230583,Emeka,Ibrahim,Female,2001-05-03,2,Mathematics,400,2022
+584,STU20230584,Ifeanyi,Olawale,Female,2004-04-28,3,Accounting,100,2022
+585,STU20230585,Ifeanyi,Eze,Female,2005-05-23,2,Mathematics,400,2022
+586,STU20230586,Chinedu,Nwosu,Male,2006-01-06,3,Accounting,100,2023
+587,STU20230587,Emeka,Uche,Male,2001-02-05,3,Accounting,100,2024
+588,STU20230588,Amaka,Ibrahim,Female,2005-06-15,2,Mathematics,100,2023
+589,STU20230589,Joy,Nwosu,Male,2002-07-03,1,Computer Science,400,2022
+590,STU20230590,Victor,Adebayo,Female,1998-02-25,2,Mathematics,200,2024
+591,STU20230591,Ngozi,Okafor,Male,2005-12-25,4,Economics,100,2022
+592,STU20230592,David,Adebayo,Female,2000-11-24,4,Economics,100,2021
+593,STU20230593,Grace,Adebayo,Male,2003-01-28,3,Accounting,200,2021
+594,STU20230594,Samuel,Ibrahim,Female,1998-03-26,2,Mathematics,300,2021
+595,STU20230595,Michael,Obi,Male,1998-10-26,4,Economics,400,2022
+596,STU20230596,Michael,Eze,Male,2000-08-03,3,Accounting,300,2021
+597,STU20230597,Amaka,Nwosu,Male,2000-08-08,1,Computer Science,300,2023
+598,STU20230598,Chioma,Obi,Male,2004-06-24,4,Economics,200,2023
+599,STU20230599,Grace,Uche,Female,2006-12-16,1,Computer Science,200,2022
+600,STU20230600,Amaka,Uche,Female,2006-03-03,3,Accounting,200,2024
+601,STU20230601,Joy,Adebayo,Female,2005-01-25,3,Accounting,400,2022
+602,STU20230602,Esther,Okeke,Male,2003-12-03,1,Computer Science,400,2022
+603,STU20230603,Michael,Olawale,Male,2002-06-14,4,Economics,300,2021
+604,STU20230604,Daniel,Eze,Male,2000-03-28,1,Computer Science,100,2022
+605,STU20230605,Grace,Obi,Male,1998-10-21,1,Computer Science,400,2024
+606,STU20230606,Chinedu,Okeke,Male,1999-01-07,3,Accounting,400,2021
+607,STU20230607,Michael,Okafor,Female,2006-12-14,4,Economics,300,2021
+608,STU20230608,Daniel,Okafor,Male,2002-02-07,3,Accounting,100,2021
+609,STU20230609,Daniel,Ibrahim,Male,2001-09-22,2,Mathematics,200,2022
+610,STU20230610,Chioma,Eze,Female,2005-12-22,4,Economics,400,2021
+611,STU20230611,Michael,Nwosu,Female,2006-06-22,2,Mathematics,200,2024
+612,STU20230612,Victor,Okeke,Female,2003-07-25,3,Accounting,400,2023
+613,STU20230613,Esther,Olawale,Male,2004-09-24,2,Mathematics,300,2023
+614,STU20230614,Grace,Ibrahim,Male,1998-05-20,4,Economics,100,2022
+615,STU20230615,Chinedu,Adebayo,Male,2001-06-01,3,Accounting,300,2022
+616,STU20230616,Chinedu,Uche,Female,2000-03-09,1,Computer Science,300,2022
+617,STU20230617,Ifeanyi,Adebayo,Male,2004-10-07,2,Mathematics,100,2023
+618,STU20230618,Emeka,Uche,Male,2002-01-24,4,Economics,400,2021
+619,STU20230619,Victor,Okeke,Female,2004-07-28,1,Computer Science,100,2022
+620,STU20230620,Samuel,Ibrahim,Male,2002-09-02,1,Computer Science,300,2022
+621,STU20230621,Daniel,Obi,Male,1998-11-24,3,Accounting,400,2024
+622,STU20230622,Ngozi,Ibrahim,Female,2004-03-05,1,Computer Science,300,2021
+623,STU20230623,Esther,Okafor,Female,2002-02-13,4,Economics,400,2022
+624,STU20230624,Grace,Olawale,Male,2005-07-21,2,Mathematics,200,2022
+625,STU20230625,Adaeze,Adebayo,Female,2003-11-19,2,Mathematics,100,2021
+626,STU20230626,David,Okeke,Female,2001-06-12,4,Economics,100,2023
+627,STU20230627,Amaka,Adeyemi,Female,2000-08-02,2,Mathematics,200,2022
+628,STU20230628,Emeka,Eze,Male,1998-04-20,3,Accounting,200,2023
+629,STU20230629,Amaka,Eze,Female,2005-08-01,1,Computer Science,300,2022
+630,STU20230630,Ngozi,Olawale,Female,2006-08-20,2,Mathematics,200,2021
+631,STU20230631,Esther,Olawale,Male,2002-03-02,4,Economics,300,2022
+632,STU20230632,Chinedu,Uche,Male,1999-07-22,3,Accounting,300,2023
+633,STU20230633,Chinedu,Adebayo,Female,2001-07-17,1,Computer Science,100,2023
+634,STU20230634,Joy,Adeyemi,Male,2000-04-17,4,Economics,400,2021
+635,STU20230635,Ngozi,Olawale,Female,2003-08-13,1,Computer Science,200,2021
+636,STU20230636,Samuel,Okeke,Female,2002-04-17,3,Accounting,300,2021
+637,STU20230637,Victor,Ibrahim,Male,2006-05-08,3,Accounting,200,2023
+638,STU20230638,Samuel,Nwosu,Male,2004-09-22,4,Economics,200,2024
+639,STU20230639,Esther,Nwosu,Female,2002-10-11,2,Mathematics,400,2022
+640,STU20230640,Samuel,Nwosu,Male,2000-05-23,2,Mathematics,200,2024
+641,STU20230641,Samuel,Adeyemi,Male,2003-02-18,2,Mathematics,100,2022
+642,STU20230642,Joy,Nwosu,Male,2003-07-14,3,Accounting,300,2024
+643,STU20230643,Emeka,Obi,Male,2000-03-01,3,Accounting,300,2022
+644,STU20230644,Ngozi,Okafor,Female,1999-12-25,2,Mathematics,400,2022
+645,STU20230645,Chioma,Okeke,Male,2004-08-16,4,Economics,200,2022
+646,STU20230646,Ngozi,Okafor,Female,1998-05-14,2,Mathematics,200,2022
+647,STU20230647,Adaeze,Nwosu,Female,2005-12-11,2,Mathematics,400,2022
+648,STU20230648,David,Okafor,Female,2003-07-20,4,Economics,100,2021
+649,STU20230649,Grace,Okafor,Male,2006-09-13,4,Economics,100,2024
+650,STU20230650,Ngozi,Adebayo,Female,2004-05-25,1,Computer Science,300,2024
+651,STU20230651,David,Adebayo,Male,2006-03-15,2,Mathematics,400,2021
+652,STU20230652,Emeka,Adeyemi,Male,2004-07-11,1,Computer Science,400,2021
+653,STU20230653,Grace,Adeyemi,Male,2005-02-09,2,Mathematics,300,2022
+654,STU20230654,Adaeze,Eze,Female,2003-02-17,1,Computer Science,400,2022
+655,STU20230655,Daniel,Ibrahim,Male,2000-06-19,4,Economics,200,2022
+656,STU20230656,Emeka,Okafor,Female,2002-05-24,2,Mathematics,400,2023
+657,STU20230657,Adaeze,Nwosu,Male,1998-10-25,2,Mathematics,300,2021
+658,STU20230658,Grace,Uche,Male,2005-04-07,4,Economics,400,2024
+659,STU20230659,Grace,Eze,Male,2001-09-09,4,Economics,200,2021
+660,STU20230660,Emeka,Okafor,Female,1998-03-28,2,Mathematics,100,2023
+661,STU20230661,Victor,Eze,Male,1999-07-06,3,Accounting,200,2023
+662,STU20230662,Grace,Adeyemi,Female,1998-02-25,2,Mathematics,300,2023
+663,STU20230663,Victor,Ibrahim,Male,2004-09-03,3,Accounting,300,2024
+664,STU20230664,Adaeze,Adebayo,Female,2006-07-17,2,Mathematics,200,2022
+665,STU20230665,Adaeze,Adeyemi,Male,2005-12-23,1,Computer Science,300,2024
+666,STU20230666,Ifeanyi,Olawale,Female,2000-10-19,3,Accounting,400,2024
+667,STU20230667,Michael,Nwosu,Male,2002-04-01,4,Economics,100,2021
+668,STU20230668,Samuel,Eze,Male,2004-07-02,4,Economics,300,2023
+669,STU20230669,Chinedu,Obi,Female,2002-02-10,2,Mathematics,300,2023
+670,STU20230670,Adaeze,Okeke,Female,2004-12-19,1,Computer Science,100,2022
+671,STU20230671,Amaka,Okeke,Female,2005-01-21,2,Mathematics,200,2024
+672,STU20230672,Samuel,Uche,Female,2005-07-24,2,Mathematics,100,2023
+673,STU20230673,Daniel,Olawale,Male,2001-10-22,3,Accounting,300,2023
+674,STU20230674,Emeka,Adebayo,Male,2003-07-21,1,Computer Science,200,2024
+675,STU20230675,Esther,Eze,Female,2003-12-02,2,Mathematics,300,2024
+676,STU20230676,Grace,Obi,Female,2005-05-07,1,Computer Science,300,2022
+677,STU20230677,Amaka,Okafor,Male,1999-08-17,1,Computer Science,100,2024
+678,STU20230678,Ngozi,Okeke,Female,2006-05-25,2,Mathematics,300,2022
+679,STU20230679,Joy,Olawale,Male,2001-12-02,1,Computer Science,400,2024
+680,STU20230680,Chinedu,Adebayo,Male,1999-06-15,1,Computer Science,100,2021
+681,STU20230681,Chinedu,Adeyemi,Female,2001-06-07,3,Accounting,200,2023
+682,STU20230682,Daniel,Okeke,Female,1999-05-05,3,Accounting,200,2023
+683,STU20230683,Chinedu,Adeyemi,Male,2001-09-12,1,Computer Science,300,2023
+684,STU20230684,Chioma,Adebayo,Male,2000-02-10,2,Mathematics,300,2024
+685,STU20230685,Emeka,Okafor,Female,1998-02-13,1,Computer Science,100,2021
+686,STU20230686,David,Nwosu,Female,2003-05-11,4,Economics,200,2021
+687,STU20230687,Esther,Nwosu,Male,2005-02-15,4,Economics,300,2024
+688,STU20230688,Ngozi,Obi,Male,2002-06-13,4,Economics,200,2023
+689,STU20230689,Grace,Uche,Male,1999-08-04,3,Accounting,300,2024
+690,STU20230690,Joy,Nwosu,Female,2003-10-19,4,Economics,200,2021
+691,STU20230691,Joy,Eze,Female,2006-11-03,4,Economics,300,2024
+692,STU20230692,Esther,Ibrahim,Male,2001-09-06,4,Economics,400,2024
+693,STU20230693,Amaka,Obi,Female,2004-10-26,1,Computer Science,300,2022
+694,STU20230694,Samuel,Eze,Female,1999-10-20,2,Mathematics,400,2023
+695,STU20230695,Joy,Uche,Male,2002-07-03,1,Computer Science,100,2024
+696,STU20230696,Grace,Okafor,Male,2001-03-19,3,Accounting,100,2022
+697,STU20230697,Grace,Olawale,Female,2004-10-19,2,Mathematics,400,2022
+698,STU20230698,Samuel,Okeke,Female,2002-07-23,2,Mathematics,300,2021
+699,STU20230699,Esther,Olawale,Female,2000-05-02,1,Computer Science,300,2021
+700,STU20230700,Chioma,Olawale,Female,1999-05-28,1,Computer Science,100,2022
+701,STU20230701,Chioma,Adeyemi,Female,2003-12-13,4,Economics,400,2024
+702,STU20230702,Daniel,Obi,Male,2005-03-07,4,Economics,400,2023
+703,STU20230703,Emeka,Adebayo,Male,2000-01-03,4,Economics,100,2022
+704,STU20230704,Samuel,Ibrahim,Male,1999-03-21,4,Economics,400,2024
+705,STU20230705,Esther,Nwosu,Female,2006-07-18,4,Economics,400,2024
+706,STU20230706,Ngozi,Nwosu,Female,1998-10-16,3,Accounting,200,2023
+707,STU20230707,Victor,Olawale,Female,1998-01-19,4,Economics,400,2023
+708,STU20230708,Esther,Uche,Male,2000-12-24,1,Computer Science,300,2024
+709,STU20230709,Daniel,Adeyemi,Male,2001-08-21,1,Computer Science,100,2023
+710,STU20230710,Victor,Okeke,Male,2005-08-17,1,Computer Science,400,2023
+711,STU20230711,Amaka,Adebayo,Female,2000-01-23,4,Economics,300,2023
+712,STU20230712,Samuel,Uche,Male,1998-11-10,1,Computer Science,100,2023
+713,STU20230713,Adaeze,Nwosu,Male,2002-05-05,4,Economics,300,2023
+714,STU20230714,Chinedu,Eze,Male,2000-11-15,3,Accounting,300,2022
+715,STU20230715,Michael,Obi,Female,2000-09-28,3,Accounting,100,2023
+716,STU20230716,Emeka,Adeyemi,Male,2005-07-25,1,Computer Science,400,2022
+717,STU20230717,Chioma,Nwosu,Male,2003-01-21,4,Economics,300,2021
+718,STU20230718,Emeka,Uche,Female,2005-05-16,1,Computer Science,200,2024
+719,STU20230719,Grace,Adebayo,Male,2006-07-01,4,Economics,300,2024
+720,STU20230720,Samuel,Okeke,Male,1999-09-21,4,Economics,300,2024
+721,STU20230721,Amaka,Adebayo,Female,1999-05-21,3,Accounting,400,2024
+722,STU20230722,Chioma,Adeyemi,Male,2006-06-22,2,Mathematics,200,2023
+723,STU20230723,Samuel,Okafor,Male,1998-07-04,1,Computer Science,100,2024
+724,STU20230724,Ngozi,Adebayo,Female,2001-01-01,3,Accounting,100,2021
+725,STU20230725,Esther,Eze,Male,1999-10-05,2,Mathematics,400,2022
+726,STU20230726,Chioma,Nwosu,Female,2002-08-22,1,Computer Science,100,2024
+727,STU20230727,Michael,Ibrahim,Female,2002-03-25,3,Accounting,100,2023
+728,STU20230728,David,Ibrahim,Female,1998-05-27,1,Computer Science,300,2022
+729,STU20230729,Adaeze,Uche,Male,2004-03-21,4,Economics,400,2021
+730,STU20230730,Daniel,Ibrahim,Male,1999-08-23,2,Mathematics,300,2021
+731,STU20230731,Adaeze,Eze,Female,2005-01-16,1,Computer Science,200,2021
+732,STU20230732,Samuel,Ibrahim,Female,2000-12-11,1,Computer Science,400,2021
+733,STU20230733,Grace,Ibrahim,Female,1999-09-08,4,Economics,100,2024
+734,STU20230734,Adaeze,Adeyemi,Female,2003-11-10,4,Economics,400,2021
+735,STU20230735,Amaka,Olawale,Female,1999-08-25,1,Computer Science,300,2022
+736,STU20230736,Daniel,Okafor,Female,2001-05-23,2,Mathematics,400,2021
+737,STU20230737,Grace,Eze,Female,2001-03-02,3,Accounting,200,2021
+738,STU20230738,Grace,Ibrahim,Male,2006-11-10,2,Mathematics,400,2024
+739,STU20230739,Chinedu,Okeke,Male,2003-12-02,1,Computer Science,400,2021
+740,STU20230740,Michael,Olawale,Female,2006-03-24,2,Mathematics,200,2021
+741,STU20230741,Chioma,Nwosu,Female,1998-08-20,1,Computer Science,100,2022
+742,STU20230742,Chinedu,Nwosu,Male,2002-02-15,2,Mathematics,200,2021
+743,STU20230743,Adaeze,Uche,Male,1999-04-14,1,Computer Science,300,2024
+744,STU20230744,Adaeze,Adeyemi,Male,2003-04-25,3,Accounting,100,2022
+745,STU20230745,Adaeze,Eze,Female,2000-07-06,3,Accounting,300,2022
+746,STU20230746,Ngozi,Adeyemi,Male,2000-02-26,4,Economics,400,2022
+747,STU20230747,Victor,Uche,Male,1998-01-06,1,Computer Science,100,2023
+748,STU20230748,Chioma,Uche,Male,2001-03-21,4,Economics,300,2024
+749,STU20230749,Ngozi,Nwosu,Male,2000-12-16,4,Economics,100,2023
+750,STU20230750,David,Okafor,Male,2001-02-17,3,Accounting,100,2023
+751,STU20230751,Grace,Obi,Female,1998-04-04,2,Mathematics,200,2024
+752,STU20230752,Emeka,Nwosu,Male,1998-11-12,4,Economics,300,2022
+753,STU20230753,Ifeanyi,Okeke,Female,1998-02-24,4,Economics,100,2022
+754,STU20230754,Michael,Okafor,Female,2006-02-03,2,Mathematics,200,2024
+755,STU20230755,David,Obi,Female,2001-02-11,3,Accounting,200,2021
+756,STU20230756,Chioma,Ibrahim,Male,2004-04-03,2,Mathematics,400,2024
+757,STU20230757,Victor,Ibrahim,Male,2001-10-15,1,Computer Science,200,2024
+758,STU20230758,Emeka,Uche,Male,2003-05-07,3,Accounting,300,2022
+759,STU20230759,Chioma,Adeyemi,Male,2002-03-04,1,Computer Science,400,2024
+760,STU20230760,Emeka,Okeke,Male,2002-10-06,4,Economics,200,2022
+761,STU20230761,David,Olawale,Female,2001-10-16,1,Computer Science,400,2023
+762,STU20230762,Chioma,Ibrahim,Male,2001-06-14,1,Computer Science,200,2022
+763,STU20230763,David,Okafor,Male,2005-12-25,1,Computer Science,100,2024
+764,STU20230764,Grace,Eze,Female,2005-04-03,4,Economics,100,2024
+765,STU20230765,Emeka,Okeke,Female,2001-11-03,2,Mathematics,100,2024
+766,STU20230766,Emeka,Uche,Male,2005-08-25,3,Accounting,200,2024
+767,STU20230767,Michael,Okeke,Female,1998-11-03,2,Mathematics,400,2023
+768,STU20230768,Ifeanyi,Ibrahim,Female,2006-10-26,1,Computer Science,200,2021
+769,STU20230769,Chioma,Okafor,Female,1998-02-13,3,Accounting,300,2024
+770,STU20230770,Amaka,Okeke,Male,2006-12-03,1,Computer Science,200,2022
+771,STU20230771,Ngozi,Olawale,Male,2005-12-25,3,Accounting,200,2022
+772,STU20230772,Amaka,Adebayo,Female,2002-01-03,3,Accounting,300,2023
+773,STU20230773,Grace,Olawale,Male,2005-12-18,4,Economics,300,2024
+774,STU20230774,Michael,Eze,Male,2005-02-03,3,Accounting,400,2022
+775,STU20230775,Adaeze,Eze,Male,2002-02-23,3,Accounting,200,2024
+776,STU20230776,Joy,Obi,Male,2002-07-22,2,Mathematics,200,2024
+777,STU20230777,David,Uche,Male,2002-04-03,3,Accounting,100,2022
+778,STU20230778,David,Adeyemi,Female,2003-08-19,3,Accounting,400,2024
+779,STU20230779,Esther,Nwosu,Female,2000-05-08,3,Accounting,400,2023
+780,STU20230780,Michael,Okafor,Male,2003-05-15,3,Accounting,200,2022
+781,STU20230781,Emeka,Nwosu,Male,2000-04-04,3,Accounting,100,2023
+782,STU20230782,Grace,Adebayo,Female,2000-04-18,2,Mathematics,100,2023
+783,STU20230783,Emeka,Okeke,Female,2006-03-18,3,Accounting,300,2021
+784,STU20230784,David,Uche,Male,2005-06-05,1,Computer Science,100,2023
+785,STU20230785,Grace,Adebayo,Male,2005-06-23,3,Accounting,100,2024
+786,STU20230786,Emeka,Olawale,Male,2002-01-13,1,Computer Science,200,2024
+787,STU20230787,Adaeze,Okeke,Male,2001-10-17,3,Accounting,200,2023
+788,STU20230788,Chinedu,Eze,Female,1999-09-13,2,Mathematics,200,2024
+789,STU20230789,Esther,Adeyemi,Male,2003-07-05,3,Accounting,400,2023
+790,STU20230790,Amaka,Okafor,Female,2003-06-10,4,Economics,400,2021
+791,STU20230791,Chioma,Uche,Female,2005-05-06,2,Mathematics,400,2024
+792,STU20230792,Joy,Adeyemi,Male,2000-04-10,2,Mathematics,400,2023
+793,STU20230793,Victor,Adeyemi,Female,1999-01-14,1,Computer Science,300,2024
+794,STU20230794,Daniel,Uche,Male,2001-03-27,2,Mathematics,400,2023
+795,STU20230795,Chinedu,Adebayo,Female,2005-09-24,4,Economics,400,2022
+796,STU20230796,Michael,Okafor,Male,2002-05-21,1,Computer Science,400,2021
+797,STU20230797,David,Nwosu,Female,2001-01-04,3,Accounting,300,2024
+798,STU20230798,Esther,Okeke,Female,2004-05-21,1,Computer Science,400,2021
+799,STU20230799,Daniel,Adeyemi,Male,2002-03-19,3,Accounting,100,2022
+800,STU20230800,Grace,Nwosu,Female,2000-01-09,3,Accounting,300,2024
+801,STU20230801,Chinedu,Adebayo,Female,2006-11-03,3,Accounting,200,2022
+802,STU20230802,Esther,Nwosu,Female,2003-11-26,1,Computer Science,300,2023
+803,STU20230803,Adaeze,Olawale,Female,2000-01-05,3,Accounting,300,2023
+804,STU20230804,David,Okeke,Male,1999-04-05,4,Economics,200,2022
+805,STU20230805,David,Uche,Male,1999-03-01,1,Computer Science,400,2023
+806,STU20230806,Chioma,Okeke,Male,2005-10-17,3,Accounting,300,2022
+807,STU20230807,Chinedu,Eze,Male,2000-12-05,3,Accounting,200,2023
+808,STU20230808,Ngozi,Nwosu,Male,2004-12-25,2,Mathematics,100,2021
+809,STU20230809,Michael,Uche,Female,1998-04-04,1,Computer Science,100,2021
+810,STU20230810,Adaeze,Adebayo,Male,1999-05-22,4,Economics,100,2021
+811,STU20230811,Victor,Adeyemi,Male,2001-03-22,1,Computer Science,300,2021
+812,STU20230812,Emeka,Adebayo,Female,2003-03-28,1,Computer Science,200,2021
+813,STU20230813,Joy,Adeyemi,Male,2006-04-23,1,Computer Science,200,2023
+814,STU20230814,Victor,Olawale,Male,1999-04-17,2,Mathematics,400,2023
+815,STU20230815,Grace,Eze,Male,2003-07-14,2,Mathematics,200,2022
+816,STU20230816,Adaeze,Okeke,Male,2005-02-17,4,Economics,200,2024
+817,STU20230817,Chioma,Adebayo,Male,1999-06-16,3,Accounting,100,2024
+818,STU20230818,Grace,Adeyemi,Female,2005-04-18,3,Accounting,400,2023
+819,STU20230819,Ngozi,Eze,Female,2003-03-01,4,Economics,400,2021
+820,STU20230820,Grace,Olawale,Male,1999-03-13,4,Economics,400,2021
+821,STU20230821,Adaeze,Okeke,Male,2003-04-20,2,Mathematics,400,2021
+822,STU20230822,Joy,Ibrahim,Female,2002-12-25,2,Mathematics,300,2024
+823,STU20230823,Grace,Adeyemi,Female,2005-09-09,3,Accounting,200,2024
+824,STU20230824,Adaeze,Adebayo,Female,2005-04-21,1,Computer Science,200,2021
+825,STU20230825,Chioma,Okafor,Male,2005-11-01,1,Computer Science,200,2024
+826,STU20230826,Emeka,Adebayo,Male,1999-11-25,3,Accounting,400,2024
+827,STU20230827,Ifeanyi,Uche,Female,2006-05-18,2,Mathematics,300,2021
+828,STU20230828,David,Eze,Female,2005-06-28,1,Computer Science,400,2024
+829,STU20230829,Chinedu,Okafor,Male,2006-11-28,4,Economics,300,2022
+830,STU20230830,David,Nwosu,Female,2004-08-25,4,Economics,100,2024
+831,STU20230831,Grace,Olawale,Male,2006-01-13,4,Economics,300,2024
+832,STU20230832,Esther,Okeke,Female,2003-01-01,4,Economics,100,2022
+833,STU20230833,Amaka,Adeyemi,Male,2003-07-04,3,Accounting,400,2023
+834,STU20230834,David,Okeke,Male,2001-04-08,3,Accounting,300,2021
+835,STU20230835,Joy,Adebayo,Male,2003-03-01,1,Computer Science,300,2021
+836,STU20230836,Samuel,Ibrahim,Female,2002-01-23,4,Economics,400,2021
+837,STU20230837,David,Adeyemi,Female,2003-10-04,3,Accounting,400,2021
+838,STU20230838,Amaka,Uche,Female,2000-10-10,2,Mathematics,300,2024
+839,STU20230839,Grace,Eze,Male,2002-05-02,2,Mathematics,300,2024
+840,STU20230840,Esther,Eze,Male,2003-05-03,2,Mathematics,400,2024
+841,STU20230841,Amaka,Eze,Female,2006-05-14,2,Mathematics,300,2022
+842,STU20230842,David,Adebayo,Female,2006-03-01,4,Economics,200,2024
+843,STU20230843,Samuel,Uche,Female,2006-10-28,2,Mathematics,400,2021
+844,STU20230844,Amaka,Uche,Male,2001-03-24,2,Mathematics,300,2024
+845,STU20230845,Amaka,Eze,Male,2004-05-27,4,Economics,300,2022
+846,STU20230846,Samuel,Adeyemi,Male,2004-04-04,3,Accounting,200,2022
+847,STU20230847,Ngozi,Adebayo,Female,2005-09-14,1,Computer Science,400,2021
+848,STU20230848,Emeka,Adebayo,Male,1998-05-26,2,Mathematics,300,2022
+849,STU20230849,Chioma,Uche,Male,1998-02-11,1,Computer Science,300,2021
+850,STU20230850,Victor,Okeke,Male,2004-12-27,4,Economics,200,2022
+851,STU20230851,Esther,Olawale,Male,2006-11-27,1,Computer Science,300,2024
+852,STU20230852,Ngozi,Adeyemi,Male,2003-06-27,1,Computer Science,400,2022
+853,STU20230853,Ngozi,Nwosu,Male,2000-04-09,4,Economics,400,2024
+854,STU20230854,Joy,Adeyemi,Male,2005-09-12,3,Accounting,100,2023
+855,STU20230855,Grace,Obi,Female,2000-06-16,4,Economics,300,2023
+856,STU20230856,Samuel,Adeyemi,Male,1998-12-26,1,Computer Science,200,2023
+857,STU20230857,Ifeanyi,Okeke,Male,2006-04-28,4,Economics,400,2024
+858,STU20230858,Victor,Ibrahim,Female,2002-02-27,1,Computer Science,200,2023
+859,STU20230859,Joy,Nwosu,Female,2003-11-14,2,Mathematics,100,2023
+860,STU20230860,Joy,Uche,Female,2004-06-23,1,Computer Science,400,2021
+861,STU20230861,Chioma,Adebayo,Male,2003-07-20,2,Mathematics,300,2024
+862,STU20230862,Michael,Okafor,Male,2005-11-05,1,Computer Science,100,2024
+863,STU20230863,Samuel,Adebayo,Female,1999-02-06,2,Mathematics,200,2022
+864,STU20230864,Michael,Okeke,Female,2005-12-05,4,Economics,300,2022
+865,STU20230865,Michael,Adebayo,Male,1999-07-12,3,Accounting,200,2024
+866,STU20230866,Joy,Adeyemi,Male,1998-01-18,4,Economics,200,2021
+867,STU20230867,Ngozi,Adebayo,Male,1998-07-20,4,Economics,400,2023
+868,STU20230868,Adaeze,Okeke,Male,1999-01-23,2,Mathematics,400,2024
+869,STU20230869,Adaeze,Obi,Male,2001-05-10,4,Economics,400,2024
+870,STU20230870,David,Obi,Male,2002-12-22,2,Mathematics,200,2024
+871,STU20230871,David,Nwosu,Male,2002-05-08,2,Mathematics,400,2022
+872,STU20230872,Esther,Uche,Male,1998-08-05,3,Accounting,300,2024
+873,STU20230873,Chioma,Ibrahim,Female,2002-02-04,2,Mathematics,100,2021
+874,STU20230874,Victor,Obi,Female,2003-10-22,3,Accounting,100,2021
+875,STU20230875,Daniel,Adeyemi,Female,2002-07-22,3,Accounting,300,2022
+876,STU20230876,Esther,Nwosu,Female,2000-09-16,1,Computer Science,300,2024
+877,STU20230877,Adaeze,Okeke,Female,2000-05-04,2,Mathematics,300,2021
+878,STU20230878,Grace,Adebayo,Female,2004-05-09,2,Mathematics,300,2023
+879,STU20230879,Victor,Nwosu,Female,2005-03-18,4,Economics,400,2021
+880,STU20230880,Emeka,Okafor,Male,2000-01-16,2,Mathematics,300,2022
+881,STU20230881,David,Eze,Female,1998-08-12,4,Economics,400,2024
+882,STU20230882,Adaeze,Nwosu,Male,2003-02-07,4,Economics,300,2022
+883,STU20230883,Chioma,Olawale,Female,2001-10-01,2,Mathematics,200,2024
+884,STU20230884,Ngozi,Uche,Male,2003-01-10,1,Computer Science,100,2024
+885,STU20230885,Esther,Eze,Female,2000-01-03,3,Accounting,400,2024
+886,STU20230886,Samuel,Adebayo,Male,2003-01-21,4,Economics,400,2023
+887,STU20230887,Ngozi,Okafor,Female,2003-01-24,2,Mathematics,100,2024
+888,STU20230888,David,Adebayo,Male,2001-07-03,1,Computer Science,100,2022
+889,STU20230889,David,Ibrahim,Female,2000-02-10,2,Mathematics,400,2024
+890,STU20230890,Victor,Adeyemi,Male,2003-11-04,3,Accounting,300,2022
+891,STU20230891,Grace,Ibrahim,Female,2002-10-20,4,Economics,400,2021
+892,STU20230892,Michael,Okeke,Male,2004-11-14,4,Economics,100,2021
+893,STU20230893,Grace,Obi,Male,2005-09-21,3,Accounting,100,2023
+894,STU20230894,David,Eze,Female,2002-03-05,4,Economics,300,2022
+895,STU20230895,Ifeanyi,Adeyemi,Male,2006-02-02,4,Economics,100,2024
+896,STU20230896,Adaeze,Uche,Female,2003-05-19,4,Economics,100,2021
+897,STU20230897,Chioma,Uche,Male,2000-07-02,1,Computer Science,100,2024
+898,STU20230898,Amaka,Adeyemi,Female,2005-10-26,3,Accounting,300,2023
+899,STU20230899,Ngozi,Nwosu,Male,2002-11-04,2,Mathematics,400,2021
+900,STU20230900,David,Eze,Male,2000-11-16,1,Computer Science,400,2024
+901,STU20230901,Ifeanyi,Adeyemi,Female,2004-05-03,4,Economics,200,2022
+902,STU20230902,Ngozi,Eze,Male,2001-01-07,1,Computer Science,400,2022
+903,STU20230903,David,Olawale,Male,1999-05-25,2,Mathematics,400,2022
+904,STU20230904,David,Okafor,Male,2000-03-24,4,Economics,400,2024
+905,STU20230905,Chinedu,Uche,Male,2001-05-19,4,Economics,400,2021
+906,STU20230906,Chinedu,Eze,Female,2004-08-24,3,Accounting,300,2021
+907,STU20230907,David,Uche,Female,2001-12-02,4,Economics,100,2024
+908,STU20230908,Daniel,Eze,Female,2004-08-04,3,Accounting,400,2023
+909,STU20230909,Chioma,Ibrahim,Male,2000-05-24,4,Economics,200,2024
+910,STU20230910,Grace,Obi,Male,2003-10-28,3,Accounting,400,2022
+911,STU20230911,Chioma,Ibrahim,Female,2003-08-26,3,Accounting,200,2022
+912,STU20230912,Chioma,Eze,Female,2000-03-07,3,Accounting,200,2024
+913,STU20230913,Michael,Ibrahim,Female,2002-04-07,1,Computer Science,100,2021
+914,STU20230914,Victor,Adebayo,Female,2000-03-27,3,Accounting,100,2021
+915,STU20230915,David,Eze,Male,1999-09-08,3,Accounting,400,2023
+916,STU20230916,Michael,Okeke,Male,2006-05-05,3,Accounting,100,2021
+917,STU20230917,Michael,Uche,Male,1999-10-20,4,Economics,100,2021
+918,STU20230918,Emeka,Eze,Male,2003-03-24,1,Computer Science,300,2024
+919,STU20230919,Chioma,Eze,Male,2003-06-27,4,Economics,200,2021
+920,STU20230920,Grace,Ibrahim,Male,2001-08-11,2,Mathematics,300,2022
+921,STU20230921,Ifeanyi,Okeke,Female,2003-11-22,1,Computer Science,200,2022
+922,STU20230922,Michael,Obi,Male,2004-07-14,4,Economics,400,2023
+923,STU20230923,Grace,Nwosu,Male,2006-02-03,1,Computer Science,300,2023
+924,STU20230924,Michael,Nwosu,Female,1998-07-25,4,Economics,100,2022
+925,STU20230925,Samuel,Olawale,Female,2004-07-22,1,Computer Science,300,2023
+926,STU20230926,Chinedu,Adebayo,Male,2004-08-21,3,Accounting,200,2024
+927,STU20230927,Victor,Ibrahim,Male,2002-02-02,3,Accounting,300,2024
+928,STU20230928,Daniel,Olawale,Female,2001-02-17,2,Mathematics,300,2023
+929,STU20230929,Chinedu,Okafor,Female,2001-05-24,2,Mathematics,400,2021
+930,STU20230930,Joy,Okeke,Female,2006-06-04,1,Computer Science,100,2021
+931,STU20230931,Ifeanyi,Adeyemi,Male,2005-06-08,4,Economics,200,2023
+932,STU20230932,Ifeanyi,Adeyemi,Male,2004-09-24,3,Accounting,200,2021
+933,STU20230933,Daniel,Adeyemi,Male,2003-08-04,3,Accounting,200,2024
+934,STU20230934,Adaeze,Eze,Male,2004-03-16,4,Economics,200,2024
+935,STU20230935,Amaka,Olawale,Female,2006-09-25,1,Computer Science,400,2023
+936,STU20230936,Samuel,Ibrahim,Female,2005-12-14,4,Economics,200,2022
+937,STU20230937,Grace,Uche,Male,2006-09-04,2,Mathematics,200,2024
+938,STU20230938,Chinedu,Nwosu,Female,1999-10-28,4,Economics,400,2021
+939,STU20230939,Amaka,Adeyemi,Female,1998-09-05,1,Computer Science,100,2023
+940,STU20230940,Amaka,Adebayo,Female,2005-01-26,3,Accounting,200,2022
+941,STU20230941,Chinedu,Adebayo,Female,2001-03-27,4,Economics,400,2021
+942,STU20230942,Daniel,Okeke,Male,1998-07-16,1,Computer Science,300,2024
+943,STU20230943,Michael,Ibrahim,Female,2000-03-17,3,Accounting,400,2024
+944,STU20230944,Emeka,Okeke,Male,2004-07-08,4,Economics,400,2023
+945,STU20230945,Samuel,Uche,Female,1999-03-23,1,Computer Science,100,2023
+946,STU20230946,Samuel,Olawale,Male,2001-10-18,1,Computer Science,100,2022
+947,STU20230947,Daniel,Okafor,Male,2006-03-01,4,Economics,300,2022
+948,STU20230948,Joy,Adeyemi,Female,1999-09-20,2,Mathematics,300,2024
+949,STU20230949,Grace,Okafor,Female,2004-03-14,1,Computer Science,100,2023
+950,STU20230950,Ifeanyi,Eze,Male,1999-09-06,4,Economics,300,2022
+951,STU20230951,Ifeanyi,Eze,Male,2002-07-22,2,Mathematics,200,2021
+952,STU20230952,Emeka,Okafor,Male,2002-07-04,3,Accounting,300,2022
+953,STU20230953,Victor,Okeke,Female,2004-02-02,4,Economics,200,2022
+954,STU20230954,Grace,Olawale,Female,1999-05-02,2,Mathematics,300,2024
+955,STU20230955,Adaeze,Uche,Male,2004-11-08,4,Economics,100,2023
+956,STU20230956,Ngozi,Olawale,Male,2002-10-14,1,Computer Science,400,2021
+957,STU20230957,Michael,Nwosu,Female,2006-03-26,2,Mathematics,200,2024
+958,STU20230958,Chinedu,Okafor,Female,2002-11-06,4,Economics,100,2021
+959,STU20230959,Ifeanyi,Adeyemi,Female,2004-06-27,4,Economics,200,2023
+960,STU20230960,Emeka,Olawale,Male,2002-02-13,1,Computer Science,100,2022
+961,STU20230961,Victor,Ibrahim,Male,2006-06-22,3,Accounting,300,2023
+962,STU20230962,Ifeanyi,Obi,Female,2003-04-15,4,Economics,300,2021
+963,STU20230963,Samuel,Okafor,Female,1998-01-22,2,Mathematics,200,2024
+964,STU20230964,Michael,Ibrahim,Male,1999-09-01,4,Economics,400,2021
+965,STU20230965,Joy,Ibrahim,Female,2004-03-27,3,Accounting,100,2021
+966,STU20230966,Amaka,Obi,Female,1998-04-24,4,Economics,100,2023
+967,STU20230967,Ngozi,Eze,Female,2001-04-16,3,Accounting,300,2021
+968,STU20230968,Grace,Adeyemi,Male,1998-04-27,3,Accounting,400,2021
+969,STU20230969,Esther,Olawale,Female,2000-09-07,3,Accounting,200,2021
+970,STU20230970,Chioma,Eze,Male,2002-10-28,2,Mathematics,200,2023
+971,STU20230971,Joy,Okafor,Female,2006-08-01,2,Mathematics,400,2021
+972,STU20230972,David,Ibrahim,Female,1999-11-17,3,Accounting,400,2024
+973,STU20230973,Daniel,Okafor,Male,1998-05-14,3,Accounting,400,2023
+974,STU20230974,David,Obi,Female,1999-10-26,1,Computer Science,100,2022
+975,STU20230975,Adaeze,Obi,Male,2000-06-10,4,Economics,100,2021
+976,STU20230976,Grace,Ibrahim,Male,2003-05-08,1,Computer Science,100,2024
+977,STU20230977,Amaka,Okafor,Female,2006-04-03,2,Mathematics,400,2021
+978,STU20230978,Esther,Eze,Male,1998-01-13,4,Economics,300,2021
+979,STU20230979,Chinedu,Uche,Male,2002-10-21,2,Mathematics,400,2021
+980,STU20230980,Samuel,Okafor,Male,2002-07-13,1,Computer Science,100,2024
+981,STU20230981,Joy,Adeyemi,Male,2005-07-15,2,Mathematics,400,2021
+982,STU20230982,Samuel,Okafor,Female,2006-06-19,3,Accounting,200,2021
+983,STU20230983,Chinedu,Adeyemi,Male,2001-10-05,1,Computer Science,300,2023
+984,STU20230984,Grace,Adeyemi,Female,2000-04-05,4,Economics,100,2021
+985,STU20230985,Ifeanyi,Adeyemi,Female,2006-11-25,2,Mathematics,300,2023
+986,STU20230986,Emeka,Uche,Female,2003-05-12,2,Mathematics,100,2022
+987,STU20230987,Ngozi,Olawale,Male,2004-06-07,1,Computer Science,200,2022
+988,STU20230988,Amaka,Obi,Female,2005-10-23,1,Computer Science,300,2023
+989,STU20230989,David,Okeke,Male,1999-08-26,3,Accounting,100,2024
+990,STU20230990,Victor,Okafor,Male,2001-08-20,2,Mathematics,200,2022
+991,STU20230991,Chioma,Okeke,Female,2001-07-06,4,Economics,100,2023
+992,STU20230992,Adaeze,Okeke,Male,2006-02-05,1,Computer Science,300,2024
+993,STU20230993,Samuel,Adeyemi,Female,1998-01-07,2,Mathematics,200,2023
+994,STU20230994,Ngozi,Adebayo,Male,2003-09-08,2,Mathematics,200,2022
+995,STU20230995,Emeka,Adebayo,Male,1998-11-05,1,Computer Science,400,2021
+996,STU20230996,Victor,Obi,Female,2005-04-12,3,Accounting,300,2022
+997,STU20230997,Victor,Eze,Male,2000-03-26,4,Economics,200,2022
+998,STU20230998,Chioma,Okeke,Female,2004-11-08,4,Economics,100,2022
+999,STU20230999,Michael,Nwosu,Female,2001-01-21,3,Accounting,300,2022
+1000,STU20231000,Ngozi,Eze,Female,1999-03-17,4,Economics,400,2023
