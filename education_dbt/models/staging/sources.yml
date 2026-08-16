@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: education
+    database: postgres
+    schema: staging
+
+    tables:
+      - name: results
+      - name: students
+      - name: faculties
+      - name: departments
+      - name: courses
+      - name: academic_sessions
