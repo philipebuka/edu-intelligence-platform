@@ -1,4 +1,5 @@
 services:
+
   postgres:
     image: postgres:16
     container_name: education_postgres
@@ -13,5 +14,28 @@ services:
       - postgres_data:/var/lib/postgresql/data
       - ./postgres/init:/docker-entrypoint-initdb.d
 
+  redis:
+    image: redis:7
+    container_name: education_redis
+    restart: unless-stopped
+    ports:
+      - "6379:6379"
+
+  superset:
+    build:
+      context: ./superset
+    container_name: education_superset
+    restart: unless-stopped
+    depends_on:
+      - postgres
+      - redis
+    ports:
+      - "8088:8088"
+    environment:
+      SUPERSET_SECRET_KEY: ${SUPERSET_SECRET_KEY}
+    volumes:
+      - superset_home:/app/superset_home
+
 volumes:
   postgres_data:
+  superset_home:
