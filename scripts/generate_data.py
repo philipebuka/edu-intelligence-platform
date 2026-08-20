@@ -6,7 +6,7 @@ import pandas as pd
 #reproducible data generation
 random.seed(42)
 
-OUTPUT_DIR = Path("data/sample")
+OUTPUT_DIR = Path("/opt/airflow/data/sample")
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 NUM_STUDENTS = 1000
