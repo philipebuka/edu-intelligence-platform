@@ -1,9 +1,46 @@
 course_id,course_code,course_name,credit_units,department_id
 1,CSC101,Introduction to Computer Science,3,1
-2,CSC201,Data Structures,3,1
-3,CSC301,Database Systems,3,1
-4,MTH101,Calculus I,3,2
-5,MTH201,Statistics,3,2
-6,EEE101,Circuit Theory,3,3
-7,ACC101,Financial Accounting,3,4
-8,ECO101,Principles of Economics,3,5
+2,CSC201,Data Structures and Algorithms,3,1
+3,CSC301,Database Management Systems,3,1
+4,CSC401,Software Engineering,3,1
+5,CSC501,Artificial Intelligence,3,1
+6,MTH101,Calculus I,3,2
+7,MTH201,Linear Algebra,3,2
+8,MTH301,Differential Equations,3,2
+9,MTH401,Numerical Analysis,3,2
+10,MTH501,Advanced Mathematical Methods,3,2
+11,STA101,Introduction to Statistics,3,3
+12,STA201,Probability Theory,3,3
+13,STA301,Statistical Inference,3,3
+14,STA401,Regression Analysis,3,3
+15,STA501,Applied Multivariate Statistics,3,3
+16,CPE101,Introduction to Computer Engineering,3,4
+17,CPE201,Digital Logic Design,3,4
+18,CPE301,Microprocessor Systems,3,4
+19,CPE401,Computer Architecture,3,4
+20,CPE501,Embedded Systems Design,3,4
+21,EEE101,Basic Electrical Engineering,3,5
+22,EEE201,Circuit Theory,3,5
+23,EEE301,Electronic Devices and Circuits,3,5
+24,EEE401,Power Systems Engineering,3,5
+25,EEE501,Control Systems Engineering,3,5
+26,MEE101,Introduction to Mechanical Engineering,3,6
+27,MEE201,Engineering Mechanics,3,6
+28,MEE301,Thermodynamics,3,6
+29,MEE401,Fluid Mechanics,3,6
+30,MEE501,Advanced Machine Design,3,6
+31,ACC101,Introduction to Accounting,3,7
+32,ACC201,Financial Accounting,3,7
+33,ACC301,Management Accounting,3,7
+34,ACC401,Auditing and Assurance,3,7
+35,ACC501,Advanced Financial Reporting,3,7
+36,BUS101,Introduction to Business,3,8
+37,BUS201,Principles of Management,3,8
+38,BUS301,Organizational Behaviour,3,8
+39,BUS401,Strategic Management,3,8
+40,BUS501,Business Policy and Strategy,3,8
+41,ECO101,Principles of Economics,3,9
+42,ECO201,Microeconomic Theory,3,9
+43,ECO301,Macroeconomic Theory,3,9
+44,ECO401,Econometrics,3,9
+45,ECO501,Advanced Economic Analysis,3,9
