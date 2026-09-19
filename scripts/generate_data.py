@@ -216,12 +216,94 @@ for i in range(1, NUM_STUDENTS + 1):
 
 students_df = pd.DataFrame(students)
 
+# # -------------------------
+# # Results
+# # -------------------------
+# results = []
+
+# for student_id in students_df["student_id"]:
+#     student_department = students_df.loc[
+#         students_df["student_id"] == student_id,
+#         "department_id"
+#     ].iloc[0]
+
+#     # Get courses belonging to the student's department
+#     department_courses = courses_df[
+#         courses_df["department_id"] == student_department
+#     ]
+
+#     for session_id in academic_sessions_df["session_id"]:
+#         # Student takes all courses offered by their department
+#         for _, course in department_courses.iterrows():
+
+#             score = random.randint(35, 95)
+
+#             if score >= 70:
+#                 grade = "A"
+#                 grade_point = 5.0
+#             elif score >= 60:
+#                 grade = "B"
+#                 grade_point = 4.0
+#             elif score >= 50:
+#                 grade = "C"
+#                 grade_point = 3.0
+#             elif score >= 45:
+#                 grade = "D"
+#                 grade_point = 2.0
+#             elif score >= 40:
+#                 grade = "E"
+#                 grade_point = 1.0
+#             else:
+#                 grade = "F"
+#                 grade_point = 0.0
+
+#             results.append({
+#                 "result_id": len(results) + 1,
+#                 "student_id": student_id,
+#                 "course_id": course["course_id"],
+#                 "session_id": session_id,
+#                 "score": score,
+#                 "grade": grade,
+#                 "grade_point": grade_point,
+#                 "credit_units": course["credit_units"]
+#             })
+
+# results_df = pd.DataFrame(results)
+
 # -------------------------
 # Results
 # -------------------------
+
 results = []
 
+# Target distribution
+TARGET_MEAN = 54
+TARGET_STD = 18
+FAILURE_RATE = 0.12
+PASS_MARK = 40
+
+# Total number of result records
+total_results = (
+    len(students_df)
+    * len(academic_sessions_df)
+    * len(courses_df)
+)
+
+# Approximately 12% of records should be failures
+num_failures = round(total_results * FAILURE_RATE)
+
+# Create a list of result positions that will be failures
+failure_indices = set(
+    random.sample(
+        range(total_results),
+        num_failures
+    )
+)
+
+score_index = 0
+
 for student_id in students_df["student_id"]:
+
     student_department = students_df.loc[
         students_df["student_id"] == student_id,
         "department_id"
@@ -233,26 +315,62 @@ for student_id in students_df["student_id"]:
     ]
 
     for session_id in academic_sessions_df["session_id"]:
+
         # Student takes all courses offered by their department
         for _, course in department_courses.iterrows():
 
-            score = random.randint(35, 95)
+            # -----------------------------------
+            # Generate score
+            # -----------------------------------
+
+            if score_index in failure_indices:
+
+                # Generate a realistic failing score
+                # between 0 and 39
+                score = random.gauss(30, 6)
+
+                # Keep within valid failure range
+                score = max(0, min(39, score))
+
+            else:
+
+                # Generate score around mean 54
+                # with standard deviation of 18
+                score = random.gauss(
+                    TARGET_MEAN,
+                    TARGET_STD
+                )
+
+                # Keep score within valid range
+                score = max(40, min(100, score))
+
+            # Round to 2 decimal places
+            score = round(score, 2)
+
+            # -----------------------------------
+            # Grade assignment
+            # -----------------------------------
 
             if score >= 70:
                 grade = "A"
                 grade_point = 5.0
+
             elif score >= 60:
                 grade = "B"
                 grade_point = 4.0
+
             elif score >= 50:
                 grade = "C"
                 grade_point = 3.0
+
             elif score >= 45:
                 grade = "D"
                 grade_point = 2.0
+
             elif score >= 40:
                 grade = "E"
                 grade_point = 1.0
+
             else:
                 grade = "F"
                 grade_point = 0.0
@@ -268,7 +386,11 @@ for student_id in students_df["student_id"]:
                 "credit_units": course["credit_units"]
             })
 
+            score_index += 1
+
+
 results_df = pd.DataFrame(results)
+
 
 # -------------------------
 # Save datasets
