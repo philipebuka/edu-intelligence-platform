@@ -1,6 +1,6 @@
 
 # Containerised Data Warehouse & BI Platform — System Architecture
-**An End-to-End Data Engineering and Analytics Platform for Higher Education**
+An End-to-End Data Engineering and Analytics Platform for Higher Education
 
 <img width="882" height="791" alt="DW and BI ETL drawio" src="https://github.com/user-attachments/assets/1aadf102-cc3b-4f7c-8b20-08ca54d5356e" />
 
